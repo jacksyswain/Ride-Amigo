@@ -1,0 +1,7002 @@
+[
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Agra",
+    "latitude": 27.208251,
+    "longitude": 78.009804,
+    "address": "Some Road, Agra"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 21.19006,
+    "longitude": 79.126437,
+    "address": "Some Road, Nagpur"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Nagpur",
+    "latitude": 21.159057,
+    "longitude": 79.137075,
+    "address": "Some Road, Nagpur"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Ahmedabad",
+    "latitude": 22.982815,
+    "longitude": 72.619901,
+    "address": "Some Road, Ahmedabad"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 22.569917,
+    "longitude": 88.324697,
+    "address": "Some Road, Kolkata"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Pune",
+    "latitude": 18.496303,
+    "longitude": 73.891954,
+    "address": "Some Road, Pune"
+  },
+  {
+    "type": "garage",
+    "name": "WheelMate",
+    "latitude": 19.079471,
+    "longitude": 72.85722,
+    "address": "Some Road, Mumbai"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Kolkata",
+    "latitude": 22.615567,
+    "longitude": 88.321258,
+    "address": "Some Road, Kolkata"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 27.195432,
+    "longitude": 78.033716,
+    "address": "Some Road, Agra"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 25.597918,
+    "longitude": 85.142241,
+    "address": "Some Road, Patna"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Patna",
+    "latitude": 25.55494,
+    "longitude": 85.10723,
+    "address": "Some Road, Patna"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Vijayawada",
+    "latitude": 16.54633,
+    "longitude": 80.639407,
+    "address": "Some Road, Vijayawada"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 20.249466,
+    "longitude": 85.786365,
+    "address": "Some Road, Bhubaneswar"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 18.473258,
+    "longitude": 73.875796,
+    "address": "Some Road, Pune"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Bangalore",
+    "latitude": 12.959528,
+    "longitude": 77.548587,
+    "address": "Some Road, Bangalore"
+  },
+  {
+    "type": "garage",
+    "name": "WheelMate",
+    "latitude": 13.015458,
+    "longitude": 77.596964,
+    "address": "Some Road, Bangalore"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 23.218017,
+    "longitude": 77.401437,
+    "address": "Some Road, Bhopal"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 23.240181,
+    "longitude": 77.386626,
+    "address": "Some Road, Bhopal"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Bangalore",
+    "latitude": 12.949909,
+    "longitude": 77.585731,
+    "address": "Some Road, Bangalore"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Bhubaneswar",
+    "latitude": 20.32294,
+    "longitude": 85.774533,
+    "address": "Some Road, Bhubaneswar"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Bangalore",
+    "latitude": 13.008741,
+    "longitude": 77.587159,
+    "address": "Some Road, Bangalore"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 28.675573,
+    "longitude": 77.142649,
+    "address": "Some Road, Delhi"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Bhopal",
+    "latitude": 23.258356,
+    "longitude": 77.427051,
+    "address": "Some Road, Bhopal"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 20.50531,
+    "longitude": 85.918443,
+    "address": "Some Road, Cuttack"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 22.745557,
+    "longitude": 75.83491,
+    "address": "Some Road, Indore"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Kolkata",
+    "latitude": 22.528705,
+    "longitude": 88.330276,
+    "address": "Some Road, Kolkata"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Ahmedabad",
+    "latitude": 23.007691,
+    "longitude": 72.561023,
+    "address": "Some Road, Ahmedabad"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Bhopal",
+    "latitude": 23.228207,
+    "longitude": 77.446757,
+    "address": "Some Road, Bhopal"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 12.987804,
+    "longitude": 77.600536,
+    "address": "Some Road, Bangalore"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 19.966064,
+    "longitude": 73.822881,
+    "address": "Some Road, Nashik"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 30.861093,
+    "longitude": 75.885055,
+    "address": "Some Road, Ludhiana"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Lucknow",
+    "latitude": 26.798212,
+    "longitude": 80.955466,
+    "address": "Some Road, Lucknow"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 23.02991,
+    "longitude": 72.526094,
+    "address": "Some Road, Ahmedabad"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 21.171353,
+    "longitude": 79.076097,
+    "address": "Some Road, Nagpur"
+  },
+  {
+    "type": "garage",
+    "name": "WheelMate",
+    "latitude": 21.174325,
+    "longitude": 79.090674,
+    "address": "Some Road, Nagpur"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Mumbai",
+    "latitude": 19.044917,
+    "longitude": 72.911061,
+    "address": "Some Road, Mumbai"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Mumbai",
+    "latitude": 19.092819,
+    "longitude": 72.891833,
+    "address": "Some Road, Mumbai"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Bhubaneswar",
+    "latitude": 20.280985,
+    "longitude": 85.793275,
+    "address": "Some Road, Bhubaneswar"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 25.569905,
+    "longitude": 85.151048,
+    "address": "Some Road, Patna"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Bhopal",
+    "latitude": 23.230868,
+    "longitude": 77.415814,
+    "address": "Some Road, Bhopal"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 28.693659,
+    "longitude": 77.096567,
+    "address": "Some Road, Delhi"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Lucknow",
+    "latitude": 26.86952,
+    "longitude": 80.979654,
+    "address": "Some Road, Lucknow"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 25.617731,
+    "longitude": 85.118763,
+    "address": "Some Road, Patna"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 26.914262,
+    "longitude": 75.774563,
+    "address": "Some Road, Jaipur"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 23.05946,
+    "longitude": 72.585287,
+    "address": "Some Road, Ahmedabad"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Jaipur",
+    "latitude": 26.915579,
+    "longitude": 75.788669,
+    "address": "Some Road, Jaipur"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 21.106257,
+    "longitude": 79.065671,
+    "address": "Some Road, Nagpur"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 13.086719,
+    "longitude": 80.276419,
+    "address": "Some Road, Chennai"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Chennai",
+    "latitude": 13.124211,
+    "longitude": 80.229151,
+    "address": "Some Road, Chennai"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Mumbai",
+    "latitude": 19.030497,
+    "longitude": 72.914956,
+    "address": "Some Road, Mumbai"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Agra",
+    "latitude": 27.128715,
+    "longitude": 78.045387,
+    "address": "Some Road, Agra"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Mumbai",
+    "latitude": 19.107385,
+    "longitude": 72.881514,
+    "address": "Some Road, Mumbai"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Indore",
+    "latitude": 22.752737,
+    "longitude": 75.890936,
+    "address": "Some Road, Indore"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Nagpur",
+    "latitude": 21.139263,
+    "longitude": 79.092309,
+    "address": "Some Road, Nagpur"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 13.066437,
+    "longitude": 80.243828,
+    "address": "Some Road, Chennai"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Jaipur",
+    "latitude": 26.884703,
+    "longitude": 75.742678,
+    "address": "Some Road, Jaipur"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Agra",
+    "latitude": 27.129531,
+    "longitude": 78.004768,
+    "address": "Some Road, Agra"
+  },
+  {
+    "type": "garage",
+    "name": "WheelMate",
+    "latitude": 23.238825,
+    "longitude": 77.461153,
+    "address": "Some Road, Bhopal"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Ahmedabad",
+    "latitude": 23.03805,
+    "longitude": 72.598782,
+    "address": "Some Road, Ahmedabad"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 26.914389,
+    "longitude": 75.785618,
+    "address": "Some Road, Jaipur"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Nashik",
+    "latitude": 19.952869,
+    "longitude": 73.763455,
+    "address": "Some Road, Nashik"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Delhi",
+    "latitude": 28.751496,
+    "longitude": 77.104799,
+    "address": "Some Road, Delhi"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 20.284386,
+    "longitude": 85.832081,
+    "address": "Some Road, Bhubaneswar"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 26.895049,
+    "longitude": 75.776828,
+    "address": "Some Road, Jaipur"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 23.212658,
+    "longitude": 77.402743,
+    "address": "Some Road, Bhopal"
+  },
+  {
+    "type": "garage",
+    "name": "WheelMate",
+    "latitude": 25.622663,
+    "longitude": 85.182495,
+    "address": "Some Road, Patna"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Agra",
+    "latitude": 27.170202,
+    "longitude": 77.995149,
+    "address": "Some Road, Agra"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Delhi",
+    "latitude": 28.661312,
+    "longitude": 77.094951,
+    "address": "Some Road, Delhi"
+  },
+  {
+    "type": "garage",
+    "name": "WheelMate",
+    "latitude": 22.980712,
+    "longitude": 72.566637,
+    "address": "Some Road, Ahmedabad"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 18.561688,
+    "longitude": 73.814248,
+    "address": "Some Road, Pune"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 27.18949,
+    "longitude": 78.016867,
+    "address": "Some Road, Agra"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 12.956522,
+    "longitude": 77.595273,
+    "address": "Some Road, Bangalore"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Cuttack",
+    "latitude": 20.476697,
+    "longitude": 85.912752,
+    "address": "Some Road, Cuttack"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 18.53943,
+    "longitude": 73.89484,
+    "address": "Some Road, Pune"
+  },
+  {
+    "type": "garage",
+    "name": "WheelMate",
+    "latitude": 20.304293,
+    "longitude": 85.829192,
+    "address": "Some Road, Bhubaneswar"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 23.271811,
+    "longitude": 77.446044,
+    "address": "Some Road, Bhopal"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Pune",
+    "latitude": 18.499579,
+    "longitude": 73.820524,
+    "address": "Some Road, Pune"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 22.979849,
+    "longitude": 72.532736,
+    "address": "Some Road, Ahmedabad"
+  },
+  {
+    "type": "garage",
+    "name": "WheelMate",
+    "latitude": 20.442265,
+    "longitude": 85.90657,
+    "address": "Some Road, Cuttack"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Patna",
+    "latitude": 25.626982,
+    "longitude": 85.099866,
+    "address": "Some Road, Patna"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 18.541481,
+    "longitude": 73.817544,
+    "address": "Some Road, Pune"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Jaipur",
+    "latitude": 26.910683,
+    "longitude": 75.829899,
+    "address": "Some Road, Jaipur"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Vijayawada",
+    "latitude": 16.495082,
+    "longitude": 80.634088,
+    "address": "Some Road, Vijayawada"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Ahmedabad",
+    "latitude": 22.975888,
+    "longitude": 72.580872,
+    "address": "Some Road, Ahmedabad"
+  },
+  {
+    "type": "garage",
+    "name": "WheelMate",
+    "latitude": 30.854528,
+    "longitude": 75.82715,
+    "address": "Some Road, Ludhiana"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 23.25622,
+    "longitude": 77.43255,
+    "address": "Some Road, Bhopal"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Bhubaneswar",
+    "latitude": 20.268449,
+    "longitude": 85.868217,
+    "address": "Some Road, Bhubaneswar"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Vijayawada",
+    "latitude": 16.490214,
+    "longitude": 80.657948,
+    "address": "Some Road, Vijayawada"
+  },
+  {
+    "type": "garage",
+    "name": "WheelMate",
+    "latitude": 18.541684,
+    "longitude": 73.860449,
+    "address": "Some Road, Pune"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 22.584887,
+    "longitude": 88.327416,
+    "address": "Some Road, Kolkata"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Lucknow",
+    "latitude": 26.817991,
+    "longitude": 80.95999,
+    "address": "Some Road, Lucknow"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 20.419593,
+    "longitude": 85.846005,
+    "address": "Some Road, Cuttack"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Bhubaneswar",
+    "latitude": 20.27667,
+    "longitude": 85.855465,
+    "address": "Some Road, Bhubaneswar"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Ahmedabad",
+    "latitude": 22.998788,
+    "longitude": 72.564624,
+    "address": "Some Road, Ahmedabad"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 12.952494,
+    "longitude": 77.555202,
+    "address": "Some Road, Bangalore"
+  },
+  {
+    "type": "garage",
+    "name": "WheelMate",
+    "latitude": 12.927163,
+    "longitude": 77.64298,
+    "address": "Some Road, Bangalore"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Agra",
+    "latitude": 27.133114,
+    "longitude": 78.051319,
+    "address": "Some Road, Agra"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 22.728683,
+    "longitude": 75.832081,
+    "address": "Some Road, Indore"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Jaipur",
+    "latitude": 26.887705,
+    "longitude": 75.790318,
+    "address": "Some Road, Jaipur"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Cuttack",
+    "latitude": 20.48282,
+    "longitude": 85.874886,
+    "address": "Some Road, Cuttack"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 17.340983,
+    "longitude": 78.459515,
+    "address": "Some Road, Hyderabad"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 16.513915,
+    "longitude": 80.600784,
+    "address": "Some Road, Vijayawada"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 12.923462,
+    "longitude": 77.617097,
+    "address": "Some Road, Bangalore"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Bhubaneswar",
+    "latitude": 20.287348,
+    "longitude": 85.834374,
+    "address": "Some Road, Bhubaneswar"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Jaipur",
+    "latitude": 26.950633,
+    "longitude": 75.756507,
+    "address": "Some Road, Jaipur"
+  },
+  {
+    "type": "garage",
+    "name": "WheelMate",
+    "latitude": 19.974845,
+    "longitude": 73.741413,
+    "address": "Some Road, Nashik"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 13.085374,
+    "longitude": 80.313056,
+    "address": "Some Road, Chennai"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Patna",
+    "latitude": 25.605517,
+    "longitude": 85.119614,
+    "address": "Some Road, Patna"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Indore",
+    "latitude": 22.701606,
+    "longitude": 75.88173,
+    "address": "Some Road, Indore"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Ludhiana",
+    "latitude": 30.914823,
+    "longitude": 75.885926,
+    "address": "Some Road, Ludhiana"
+  },
+  {
+    "type": "garage",
+    "name": "WheelMate",
+    "latitude": 22.75313,
+    "longitude": 75.848988,
+    "address": "Some Road, Indore"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 17.430867,
+    "longitude": 78.532717,
+    "address": "Some Road, Hyderabad"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 18.471832,
+    "longitude": 73.897467,
+    "address": "Some Road, Pune"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Ludhiana",
+    "latitude": 30.939119,
+    "longitude": 75.868558,
+    "address": "Some Road, Ludhiana"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Cuttack",
+    "latitude": 20.443042,
+    "longitude": 85.872812,
+    "address": "Some Road, Cuttack"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 20.492168,
+    "longitude": 85.927073,
+    "address": "Some Road, Cuttack"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Nagpur",
+    "latitude": 21.16221,
+    "longitude": 79.093873,
+    "address": "Some Road, Nagpur"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 18.535697,
+    "longitude": 73.822412,
+    "address": "Some Road, Pune"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 18.518201,
+    "longitude": 73.853222,
+    "address": "Some Road, Pune"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Jaipur",
+    "latitude": 26.920486,
+    "longitude": 75.790083,
+    "address": "Some Road, Jaipur"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 12.942439,
+    "longitude": 77.626786,
+    "address": "Some Road, Bangalore"
+  },
+  {
+    "type": "garage",
+    "name": "WheelMate",
+    "latitude": 17.346519,
+    "longitude": 78.483808,
+    "address": "Some Road, Hyderabad"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Vijayawada",
+    "latitude": 16.461837,
+    "longitude": 80.689261,
+    "address": "Some Road, Vijayawada"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 12.927356,
+    "longitude": 77.553851,
+    "address": "Some Road, Bangalore"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Nagpur",
+    "latitude": 21.173434,
+    "longitude": 79.056106,
+    "address": "Some Road, Nagpur"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Indore",
+    "latitude": 22.68347,
+    "longitude": 75.848878,
+    "address": "Some Road, Indore"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 22.541477,
+    "longitude": 88.377019,
+    "address": "Some Road, Kolkata"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 22.757596,
+    "longitude": 75.823939,
+    "address": "Some Road, Indore"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 20.32067,
+    "longitude": 85.831807,
+    "address": "Some Road, Bhubaneswar"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 19.960286,
+    "longitude": 73.772735,
+    "address": "Some Road, Nashik"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Bhopal",
+    "latitude": 23.253195,
+    "longitude": 77.410398,
+    "address": "Some Road, Bhopal"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Ahmedabad",
+    "latitude": 23.045432,
+    "longitude": 72.57213,
+    "address": "Some Road, Ahmedabad"
+  },
+  {
+    "type": "garage",
+    "name": "WheelMate",
+    "latitude": 20.296502,
+    "longitude": 85.834227,
+    "address": "Some Road, Bhubaneswar"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 18.566547,
+    "longitude": 73.817798,
+    "address": "Some Road, Pune"
+  },
+  {
+    "type": "garage",
+    "name": "WheelMate",
+    "latitude": 23.289737,
+    "longitude": 77.436389,
+    "address": "Some Road, Bhopal"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Bhubaneswar",
+    "latitude": 20.294179,
+    "longitude": 85.803162,
+    "address": "Some Road, Bhubaneswar"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 23.300131,
+    "longitude": 77.414952,
+    "address": "Some Road, Bhopal"
+  },
+  {
+    "type": "garage",
+    "name": "WheelMate",
+    "latitude": 12.974864,
+    "longitude": 77.588482,
+    "address": "Some Road, Bangalore"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Nashik",
+    "latitude": 20.030101,
+    "longitude": 73.788417,
+    "address": "Some Road, Nashik"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 16.52327,
+    "longitude": 80.675267,
+    "address": "Some Road, Vijayawada"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 23.261377,
+    "longitude": 77.439723,
+    "address": "Some Road, Bhopal"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Ludhiana",
+    "latitude": 30.887654,
+    "longitude": 75.812393,
+    "address": "Some Road, Ludhiana"
+  },
+  {
+    "type": "garage",
+    "name": "WheelMate",
+    "latitude": 20.320095,
+    "longitude": 85.873987,
+    "address": "Some Road, Bhubaneswar"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 25.622035,
+    "longitude": 85.148546,
+    "address": "Some Road, Patna"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 20.438236,
+    "longitude": 85.910455,
+    "address": "Some Road, Cuttack"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 19.952058,
+    "longitude": 73.78869,
+    "address": "Some Road, Nashik"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Nagpur",
+    "latitude": 21.108196,
+    "longitude": 79.069653,
+    "address": "Some Road, Nagpur"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Agra",
+    "latitude": 27.147346,
+    "longitude": 78.052051,
+    "address": "Some Road, Agra"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Nagpur",
+    "latitude": 21.10099,
+    "longitude": 79.069671,
+    "address": "Some Road, Nagpur"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 19.991207,
+    "longitude": 73.762453,
+    "address": "Some Road, Nashik"
+  },
+  {
+    "type": "garage",
+    "name": "WheelMate",
+    "latitude": 19.106109,
+    "longitude": 72.905521,
+    "address": "Some Road, Mumbai"
+  },
+  {
+    "type": "garage",
+    "name": "WheelMate",
+    "latitude": 28.741763,
+    "longitude": 77.115548,
+    "address": "Some Road, Delhi"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Nashik",
+    "latitude": 19.968596,
+    "longitude": 73.771125,
+    "address": "Some Road, Nashik"
+  },
+  {
+    "type": "garage",
+    "name": "WheelMate",
+    "latitude": 22.612925,
+    "longitude": 88.388415,
+    "address": "Some Road, Kolkata"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Hyderabad",
+    "latitude": 17.375959,
+    "longitude": 78.457677,
+    "address": "Some Road, Hyderabad"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Bangalore",
+    "latitude": 12.985717,
+    "longitude": 77.620416,
+    "address": "Some Road, Bangalore"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Pune",
+    "latitude": 18.499156,
+    "longitude": 73.81274,
+    "address": "Some Road, Pune"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Agra",
+    "latitude": 27.188833,
+    "longitude": 77.987945,
+    "address": "Some Road, Agra"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Mumbai",
+    "latitude": 19.072468,
+    "longitude": 72.840709,
+    "address": "Some Road, Mumbai"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Nagpur",
+    "latitude": 21.156833,
+    "longitude": 79.074734,
+    "address": "Some Road, Nagpur"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Delhi",
+    "latitude": 28.661698,
+    "longitude": 77.146181,
+    "address": "Some Road, Delhi"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 25.545445,
+    "longitude": 85.128323,
+    "address": "Some Road, Patna"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Chennai",
+    "latitude": 13.113326,
+    "longitude": 80.228507,
+    "address": "Some Road, Chennai"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Pune",
+    "latitude": 18.517764,
+    "longitude": 73.870005,
+    "address": "Some Road, Pune"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Hyderabad",
+    "latitude": 17.357484,
+    "longitude": 78.454882,
+    "address": "Some Road, Hyderabad"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 20.482697,
+    "longitude": 85.879895,
+    "address": "Some Road, Cuttack"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 20.013895,
+    "longitude": 73.838679,
+    "address": "Some Road, Nashik"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Pune",
+    "latitude": 18.506965,
+    "longitude": 73.90127,
+    "address": "Some Road, Pune"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Ludhiana",
+    "latitude": 30.917544,
+    "longitude": 75.860683,
+    "address": "Some Road, Ludhiana"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Kolkata",
+    "latitude": 22.526018,
+    "longitude": 88.412565,
+    "address": "Some Road, Kolkata"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Nashik",
+    "latitude": 19.966693,
+    "longitude": 73.792427,
+    "address": "Some Road, Nashik"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Hyderabad",
+    "latitude": 17.38215,
+    "longitude": 78.439114,
+    "address": "Some Road, Hyderabad"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 18.531277,
+    "longitude": 73.874198,
+    "address": "Some Road, Pune"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Bhopal",
+    "latitude": 23.282684,
+    "longitude": 77.40428,
+    "address": "Some Road, Bhopal"
+  },
+  {
+    "type": "garage",
+    "name": "WheelMate",
+    "latitude": 22.972538,
+    "longitude": 72.61602,
+    "address": "Some Road, Ahmedabad"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 26.925511,
+    "longitude": 75.758089,
+    "address": "Some Road, Jaipur"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Nagpur",
+    "latitude": 21.18988,
+    "longitude": 79.06035,
+    "address": "Some Road, Nagpur"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Bhubaneswar",
+    "latitude": 20.338224,
+    "longitude": 85.792307,
+    "address": "Some Road, Bhubaneswar"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Chennai",
+    "latitude": 13.046121,
+    "longitude": 80.279938,
+    "address": "Some Road, Chennai"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 13.050326,
+    "longitude": 80.278292,
+    "address": "Some Road, Chennai"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Agra",
+    "latitude": 27.152857,
+    "longitude": 78.027828,
+    "address": "Some Road, Agra"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Cuttack",
+    "latitude": 20.420737,
+    "longitude": 85.903117,
+    "address": "Some Road, Cuttack"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Delhi",
+    "latitude": 28.700198,
+    "longitude": 77.060874,
+    "address": "Some Road, Delhi"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Indore",
+    "latitude": 22.752898,
+    "longitude": 75.879026,
+    "address": "Some Road, Indore"
+  },
+  {
+    "type": "garage",
+    "name": "WheelMate",
+    "latitude": 20.285838,
+    "longitude": 85.797655,
+    "address": "Some Road, Bhubaneswar"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 26.895346,
+    "longitude": 75.779514,
+    "address": "Some Road, Jaipur"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 25.609743,
+    "longitude": 85.174074,
+    "address": "Some Road, Patna"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Chennai",
+    "latitude": 13.116355,
+    "longitude": 80.244147,
+    "address": "Some Road, Chennai"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Bhubaneswar",
+    "latitude": 20.288298,
+    "longitude": 85.843804,
+    "address": "Some Road, Bhubaneswar"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Kolkata",
+    "latitude": 22.537785,
+    "longitude": 88.398294,
+    "address": "Some Road, Kolkata"
+  },
+  {
+    "type": "garage",
+    "name": "WheelMate",
+    "latitude": 28.678479,
+    "longitude": 77.147769,
+    "address": "Some Road, Delhi"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Ahmedabad",
+    "latitude": 22.977571,
+    "longitude": 72.537379,
+    "address": "Some Road, Ahmedabad"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 30.934835,
+    "longitude": 75.881001,
+    "address": "Some Road, Ludhiana"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Vijayawada",
+    "latitude": 16.504526,
+    "longitude": 80.664332,
+    "address": "Some Road, Vijayawada"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Jaipur",
+    "latitude": 26.948778,
+    "longitude": 75.77175,
+    "address": "Some Road, Jaipur"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Hyderabad",
+    "latitude": 17.432155,
+    "longitude": 78.536107,
+    "address": "Some Road, Hyderabad"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Agra",
+    "latitude": 27.200155,
+    "longitude": 78.018249,
+    "address": "Some Road, Agra"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Kolkata",
+    "latitude": 22.583466,
+    "longitude": 88.331104,
+    "address": "Some Road, Kolkata"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Delhi",
+    "latitude": 28.752244,
+    "longitude": 77.075992,
+    "address": "Some Road, Delhi"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 23.259425,
+    "longitude": 77.456811,
+    "address": "Some Road, Bhopal"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Hyderabad",
+    "latitude": 17.389416,
+    "longitude": 78.496361,
+    "address": "Some Road, Hyderabad"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 22.68927,
+    "longitude": 75.892463,
+    "address": "Some Road, Indore"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Patna",
+    "latitude": 25.569018,
+    "longitude": 85.093492,
+    "address": "Some Road, Patna"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Bhubaneswar",
+    "latitude": 20.334772,
+    "longitude": 85.869567,
+    "address": "Some Road, Bhubaneswar"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Lucknow",
+    "latitude": 26.843995,
+    "longitude": 80.985932,
+    "address": "Some Road, Lucknow"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Kolkata",
+    "latitude": 22.594071,
+    "longitude": 88.34924,
+    "address": "Some Road, Kolkata"
+  },
+  {
+    "type": "garage",
+    "name": "WheelMate",
+    "latitude": 13.121373,
+    "longitude": 80.313287,
+    "address": "Some Road, Chennai"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Ahmedabad",
+    "latitude": 23.071458,
+    "longitude": 72.550751,
+    "address": "Some Road, Ahmedabad"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Bhubaneswar",
+    "latitude": 20.28995,
+    "longitude": 85.86299,
+    "address": "Some Road, Bhubaneswar"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Pune",
+    "latitude": 18.561274,
+    "longitude": 73.83508,
+    "address": "Some Road, Pune"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 26.893263,
+    "longitude": 75.740771,
+    "address": "Some Road, Jaipur"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 27.225496,
+    "longitude": 77.959976,
+    "address": "Some Road, Agra"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 16.464222,
+    "longitude": 80.67397,
+    "address": "Some Road, Vijayawada"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Nashik",
+    "latitude": 20.046461,
+    "longitude": 73.816661,
+    "address": "Some Road, Nashik"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Kolkata",
+    "latitude": 22.620844,
+    "longitude": 88.316652,
+    "address": "Some Road, Kolkata"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Hyderabad",
+    "latitude": 17.358749,
+    "longitude": 78.46074,
+    "address": "Some Road, Hyderabad"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Patna",
+    "latitude": 25.621293,
+    "longitude": 85.119509,
+    "address": "Some Road, Patna"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 21.14961,
+    "longitude": 79.099189,
+    "address": "Some Road, Nagpur"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 23.004298,
+    "longitude": 72.5813,
+    "address": "Some Road, Ahmedabad"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 20.331023,
+    "longitude": 85.872958,
+    "address": "Some Road, Bhubaneswar"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 20.426257,
+    "longitude": 85.861626,
+    "address": "Some Road, Cuttack"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 21.165708,
+    "longitude": 79.052335,
+    "address": "Some Road, Nagpur"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 20.313539,
+    "longitude": 85.801578,
+    "address": "Some Road, Bhubaneswar"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 22.751591,
+    "longitude": 75.859467,
+    "address": "Some Road, Indore"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Mumbai",
+    "latitude": 19.037427,
+    "longitude": 72.85739,
+    "address": "Some Road, Mumbai"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Bhubaneswar",
+    "latitude": 20.254882,
+    "longitude": 85.813117,
+    "address": "Some Road, Bhubaneswar"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Patna",
+    "latitude": 25.561775,
+    "longitude": 85.162394,
+    "address": "Some Road, Patna"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 27.182081,
+    "longitude": 77.969281,
+    "address": "Some Road, Agra"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 20.435443,
+    "longitude": 85.928157,
+    "address": "Some Road, Cuttack"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Chennai",
+    "latitude": 13.073583,
+    "longitude": 80.229987,
+    "address": "Some Road, Chennai"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Agra",
+    "latitude": 27.142125,
+    "longitude": 78.005759,
+    "address": "Some Road, Agra"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Bhopal",
+    "latitude": 23.218359,
+    "longitude": 77.396458,
+    "address": "Some Road, Bhopal"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Indore",
+    "latitude": 22.701636,
+    "longitude": 75.853865,
+    "address": "Some Road, Indore"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 23.233278,
+    "longitude": 77.460367,
+    "address": "Some Road, Bhopal"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 12.974495,
+    "longitude": 77.559936,
+    "address": "Some Road, Bangalore"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Jaipur",
+    "latitude": 26.95017,
+    "longitude": 75.776899,
+    "address": "Some Road, Jaipur"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Ludhiana",
+    "latitude": 30.877108,
+    "longitude": 75.852904,
+    "address": "Some Road, Ludhiana"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 19.116089,
+    "longitude": 72.92293,
+    "address": "Some Road, Mumbai"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Cuttack",
+    "latitude": 20.457496,
+    "longitude": 85.902839,
+    "address": "Some Road, Cuttack"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Pune",
+    "latitude": 18.478951,
+    "longitude": 73.841528,
+    "address": "Some Road, Pune"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Ahmedabad",
+    "latitude": 22.996603,
+    "longitude": 72.592102,
+    "address": "Some Road, Ahmedabad"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Pune",
+    "latitude": 18.521594,
+    "longitude": 73.83082,
+    "address": "Some Road, Pune"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Vijayawada",
+    "latitude": 16.526837,
+    "longitude": 80.673205,
+    "address": "Some Road, Vijayawada"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 26.86998,
+    "longitude": 75.745658,
+    "address": "Some Road, Jaipur"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Nashik",
+    "latitude": 19.962177,
+    "longitude": 73.827447,
+    "address": "Some Road, Nashik"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Nagpur",
+    "latitude": 21.167264,
+    "longitude": 79.080619,
+    "address": "Some Road, Nagpur"
+  },
+  {
+    "type": "garage",
+    "name": "WheelMate",
+    "latitude": 16.456427,
+    "longitude": 80.635706,
+    "address": "Some Road, Vijayawada"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Agra",
+    "latitude": 27.162788,
+    "longitude": 77.9966,
+    "address": "Some Road, Agra"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 20.339401,
+    "longitude": 85.824582,
+    "address": "Some Road, Bhubaneswar"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Chennai",
+    "latitude": 13.12662,
+    "longitude": 80.243543,
+    "address": "Some Road, Chennai"
+  },
+  {
+    "type": "garage",
+    "name": "WheelMate",
+    "latitude": 30.922138,
+    "longitude": 75.837651,
+    "address": "Some Road, Ludhiana"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 30.865791,
+    "longitude": 75.87868,
+    "address": "Some Road, Ludhiana"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Indore",
+    "latitude": 22.696267,
+    "longitude": 75.891962,
+    "address": "Some Road, Indore"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Lucknow",
+    "latitude": 26.833323,
+    "longitude": 80.974012,
+    "address": "Some Road, Lucknow"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Bhubaneswar",
+    "latitude": 20.322157,
+    "longitude": 85.823182,
+    "address": "Some Road, Bhubaneswar"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Ludhiana",
+    "latitude": 30.866473,
+    "longitude": 75.816539,
+    "address": "Some Road, Ludhiana"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 22.568611,
+    "longitude": 88.321165,
+    "address": "Some Road, Kolkata"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 22.543446,
+    "longitude": 88.327597,
+    "address": "Some Road, Kolkata"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Cuttack",
+    "latitude": 20.418513,
+    "longitude": 85.835376,
+    "address": "Some Road, Cuttack"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Jaipur",
+    "latitude": 26.883135,
+    "longitude": 75.744536,
+    "address": "Some Road, Jaipur"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 20.261412,
+    "longitude": 85.808334,
+    "address": "Some Road, Bhubaneswar"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 17.376583,
+    "longitude": 78.520904,
+    "address": "Some Road, Hyderabad"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Ludhiana",
+    "latitude": 30.887806,
+    "longitude": 75.874652,
+    "address": "Some Road, Ludhiana"
+  },
+  {
+    "type": "garage",
+    "name": "WheelMate",
+    "latitude": 22.556472,
+    "longitude": 88.363181,
+    "address": "Some Road, Kolkata"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Indore",
+    "latitude": 22.678509,
+    "longitude": 75.825032,
+    "address": "Some Road, Indore"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Nashik",
+    "latitude": 19.977281,
+    "longitude": 73.836992,
+    "address": "Some Road, Nashik"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Lucknow",
+    "latitude": 26.799686,
+    "longitude": 80.936622,
+    "address": "Some Road, Lucknow"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 23.07109,
+    "longitude": 72.538765,
+    "address": "Some Road, Ahmedabad"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Indore",
+    "latitude": 22.725806,
+    "longitude": 75.848544,
+    "address": "Some Road, Indore"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Lucknow",
+    "latitude": 26.815779,
+    "longitude": 80.943427,
+    "address": "Some Road, Lucknow"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Mumbai",
+    "latitude": 19.0962,
+    "longitude": 72.886798,
+    "address": "Some Road, Mumbai"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 17.39452,
+    "longitude": 78.498384,
+    "address": "Some Road, Hyderabad"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 20.02082,
+    "longitude": 73.78222,
+    "address": "Some Road, Nashik"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Vijayawada",
+    "latitude": 16.550262,
+    "longitude": 80.653876,
+    "address": "Some Road, Vijayawada"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 20.491483,
+    "longitude": 85.889292,
+    "address": "Some Road, Cuttack"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 26.88183,
+    "longitude": 80.904218,
+    "address": "Some Road, Lucknow"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Bhubaneswar",
+    "latitude": 20.248957,
+    "longitude": 85.838996,
+    "address": "Some Road, Bhubaneswar"
+  },
+  {
+    "type": "garage",
+    "name": "WheelMate",
+    "latitude": 26.869946,
+    "longitude": 75.816482,
+    "address": "Some Road, Jaipur"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 23.041091,
+    "longitude": 72.608112,
+    "address": "Some Road, Ahmedabad"
+  },
+  {
+    "type": "garage",
+    "name": "WheelMate",
+    "latitude": 20.333288,
+    "longitude": 85.847539,
+    "address": "Some Road, Bhubaneswar"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Pune",
+    "latitude": 18.554459,
+    "longitude": 73.892621,
+    "address": "Some Road, Pune"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Pune",
+    "latitude": 18.51789,
+    "longitude": 73.88929,
+    "address": "Some Road, Pune"
+  },
+  {
+    "type": "garage",
+    "name": "WheelMate",
+    "latitude": 13.090483,
+    "longitude": 80.277039,
+    "address": "Some Road, Chennai"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Ahmedabad",
+    "latitude": 23.045254,
+    "longitude": 72.539441,
+    "address": "Some Road, Ahmedabad"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Bangalore",
+    "latitude": 12.940694,
+    "longitude": 77.630284,
+    "address": "Some Road, Bangalore"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Patna",
+    "latitude": 25.58792,
+    "longitude": 85.109343,
+    "address": "Some Road, Patna"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 20.010752,
+    "longitude": 73.794445,
+    "address": "Some Road, Nashik"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Kolkata",
+    "latitude": 22.610878,
+    "longitude": 88.412718,
+    "address": "Some Road, Kolkata"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Cuttack",
+    "latitude": 20.473643,
+    "longitude": 85.925283,
+    "address": "Some Road, Cuttack"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 23.010685,
+    "longitude": 72.567355,
+    "address": "Some Road, Ahmedabad"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Pune",
+    "latitude": 18.484867,
+    "longitude": 73.818728,
+    "address": "Some Road, Pune"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Mumbai",
+    "latitude": 19.114035,
+    "longitude": 72.889908,
+    "address": "Some Road, Mumbai"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 28.666894,
+    "longitude": 77.106044,
+    "address": "Some Road, Delhi"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Chennai",
+    "latitude": 13.108695,
+    "longitude": 80.232664,
+    "address": "Some Road, Chennai"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Lucknow",
+    "latitude": 26.856823,
+    "longitude": 80.949908,
+    "address": "Some Road, Lucknow"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Mumbai",
+    "latitude": 19.035978,
+    "longitude": 72.912333,
+    "address": "Some Road, Mumbai"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 20.248417,
+    "longitude": 85.791263,
+    "address": "Some Road, Bhubaneswar"
+  },
+  {
+    "type": "garage",
+    "name": "WheelMate",
+    "latitude": 18.55151,
+    "longitude": 73.822088,
+    "address": "Some Road, Pune"
+  },
+  {
+    "type": "garage",
+    "name": "WheelMate",
+    "latitude": 25.594656,
+    "longitude": 85.099313,
+    "address": "Some Road, Patna"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 27.138872,
+    "longitude": 78.055109,
+    "address": "Some Road, Agra"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 26.906431,
+    "longitude": 75.749258,
+    "address": "Some Road, Jaipur"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Nagpur",
+    "latitude": 21.109861,
+    "longitude": 79.054467,
+    "address": "Some Road, Nagpur"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 20.331805,
+    "longitude": 85.780464,
+    "address": "Some Road, Bhubaneswar"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Nashik",
+    "latitude": 19.97596,
+    "longitude": 73.827191,
+    "address": "Some Road, Nashik"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 22.677991,
+    "longitude": 75.849785,
+    "address": "Some Road, Indore"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Agra",
+    "latitude": 27.12817,
+    "longitude": 77.983395,
+    "address": "Some Road, Agra"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Nashik",
+    "latitude": 19.950988,
+    "longitude": 73.816865,
+    "address": "Some Road, Nashik"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 13.112476,
+    "longitude": 80.221067,
+    "address": "Some Road, Chennai"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Agra",
+    "latitude": 27.195213,
+    "longitude": 77.980961,
+    "address": "Some Road, Agra"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Lucknow",
+    "latitude": 26.857625,
+    "longitude": 80.929415,
+    "address": "Some Road, Lucknow"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 20.438636,
+    "longitude": 85.865394,
+    "address": "Some Road, Cuttack"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 27.179922,
+    "longitude": 78.015961,
+    "address": "Some Road, Agra"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 18.552732,
+    "longitude": 73.868774,
+    "address": "Some Road, Pune"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Bhopal",
+    "latitude": 23.280358,
+    "longitude": 77.452093,
+    "address": "Some Road, Bhopal"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Bhopal",
+    "latitude": 23.268793,
+    "longitude": 77.390221,
+    "address": "Some Road, Bhopal"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 23.249628,
+    "longitude": 77.40414,
+    "address": "Some Road, Bhopal"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 25.583259,
+    "longitude": 85.162499,
+    "address": "Some Road, Patna"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Ludhiana",
+    "latitude": 30.910082,
+    "longitude": 75.879345,
+    "address": "Some Road, Ludhiana"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Nagpur",
+    "latitude": 21.137063,
+    "longitude": 79.055939,
+    "address": "Some Road, Nagpur"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Agra",
+    "latitude": 27.172706,
+    "longitude": 78.013537,
+    "address": "Some Road, Agra"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Bhopal",
+    "latitude": 23.212905,
+    "longitude": 77.447882,
+    "address": "Some Road, Bhopal"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Cuttack",
+    "latitude": 20.453569,
+    "longitude": 85.930468,
+    "address": "Some Road, Cuttack"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Nashik",
+    "latitude": 19.970454,
+    "longitude": 73.80102,
+    "address": "Some Road, Nashik"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Bhopal",
+    "latitude": 23.254433,
+    "longitude": 77.448056,
+    "address": "Some Road, Bhopal"
+  },
+  {
+    "type": "garage",
+    "name": "WheelMate",
+    "latitude": 13.076631,
+    "longitude": 80.268351,
+    "address": "Some Road, Chennai"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Delhi",
+    "latitude": 28.695986,
+    "longitude": 77.052757,
+    "address": "Some Road, Delhi"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Ludhiana",
+    "latitude": 30.895537,
+    "longitude": 75.846444,
+    "address": "Some Road, Ludhiana"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Agra",
+    "latitude": 27.202897,
+    "longitude": 78.002482,
+    "address": "Some Road, Agra"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 27.202621,
+    "longitude": 77.969466,
+    "address": "Some Road, Agra"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 22.748969,
+    "longitude": 75.859268,
+    "address": "Some Road, Indore"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Bhubaneswar",
+    "latitude": 20.285503,
+    "longitude": 85.780521,
+    "address": "Some Road, Bhubaneswar"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 27.168954,
+    "longitude": 77.997225,
+    "address": "Some Road, Agra"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 30.888434,
+    "longitude": 75.870045,
+    "address": "Some Road, Ludhiana"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 13.118656,
+    "longitude": 80.306151,
+    "address": "Some Road, Chennai"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 20.493217,
+    "longitude": 85.845514,
+    "address": "Some Road, Cuttack"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Kolkata",
+    "latitude": 22.575676,
+    "longitude": 88.356765,
+    "address": "Some Road, Kolkata"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Delhi",
+    "latitude": 28.673969,
+    "longitude": 77.070999,
+    "address": "Some Road, Delhi"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Jaipur",
+    "latitude": 26.928939,
+    "longitude": 75.81045,
+    "address": "Some Road, Jaipur"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 23.015223,
+    "longitude": 72.567118,
+    "address": "Some Road, Ahmedabad"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 19.097368,
+    "longitude": 72.915065,
+    "address": "Some Road, Mumbai"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Bangalore",
+    "latitude": 12.98089,
+    "longitude": 77.613263,
+    "address": "Some Road, Bangalore"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 30.884409,
+    "longitude": 75.836345,
+    "address": "Some Road, Ludhiana"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Cuttack",
+    "latitude": 20.473413,
+    "longitude": 85.867073,
+    "address": "Some Road, Cuttack"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Ludhiana",
+    "latitude": 30.868048,
+    "longitude": 75.851878,
+    "address": "Some Road, Ludhiana"
+  },
+  {
+    "type": "garage",
+    "name": "WheelMate",
+    "latitude": 20.027964,
+    "longitude": 73.747859,
+    "address": "Some Road, Nashik"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 30.888254,
+    "longitude": 75.87086,
+    "address": "Some Road, Ludhiana"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 17.41917,
+    "longitude": 78.459919,
+    "address": "Some Road, Hyderabad"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Bhopal",
+    "latitude": 23.24156,
+    "longitude": 77.456855,
+    "address": "Some Road, Bhopal"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Hyderabad",
+    "latitude": 17.364748,
+    "longitude": 78.460121,
+    "address": "Some Road, Hyderabad"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 26.874572,
+    "longitude": 75.751419,
+    "address": "Some Road, Jaipur"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Kolkata",
+    "latitude": 22.603631,
+    "longitude": 88.406211,
+    "address": "Some Road, Kolkata"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 19.990899,
+    "longitude": 73.802402,
+    "address": "Some Road, Nashik"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 19.985323,
+    "longitude": 73.820865,
+    "address": "Some Road, Nashik"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 30.946859,
+    "longitude": 75.812433,
+    "address": "Some Road, Ludhiana"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 18.473298,
+    "longitude": 73.892161,
+    "address": "Some Road, Pune"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 21.159625,
+    "longitude": 79.042443,
+    "address": "Some Road, Nagpur"
+  },
+  {
+    "type": "garage",
+    "name": "WheelMate",
+    "latitude": 22.715955,
+    "longitude": 75.846541,
+    "address": "Some Road, Indore"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Delhi",
+    "latitude": 28.706697,
+    "longitude": 77.122185,
+    "address": "Some Road, Delhi"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Indore",
+    "latitude": 22.688969,
+    "longitude": 75.839589,
+    "address": "Some Road, Indore"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Indore",
+    "latitude": 22.680301,
+    "longitude": 75.851185,
+    "address": "Some Road, Indore"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 21.168111,
+    "longitude": 79.122501,
+    "address": "Some Road, Nagpur"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 20.017136,
+    "longitude": 73.760244,
+    "address": "Some Road, Nashik"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 26.873079,
+    "longitude": 80.967101,
+    "address": "Some Road, Lucknow"
+  },
+  {
+    "type": "garage",
+    "name": "WheelMate",
+    "latitude": 17.360398,
+    "longitude": 78.535604,
+    "address": "Some Road, Hyderabad"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 30.932753,
+    "longitude": 75.820879,
+    "address": "Some Road, Ludhiana"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Bangalore",
+    "latitude": 12.983652,
+    "longitude": 77.607717,
+    "address": "Some Road, Bangalore"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 26.936342,
+    "longitude": 75.809559,
+    "address": "Some Road, Jaipur"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 18.508484,
+    "longitude": 73.840586,
+    "address": "Some Road, Pune"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Jaipur",
+    "latitude": 26.910074,
+    "longitude": 75.824278,
+    "address": "Some Road, Jaipur"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 12.989552,
+    "longitude": 77.59548,
+    "address": "Some Road, Bangalore"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 21.175023,
+    "longitude": 79.136434,
+    "address": "Some Road, Nagpur"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 22.688342,
+    "longitude": 75.83912,
+    "address": "Some Road, Indore"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Chennai",
+    "latitude": 13.09555,
+    "longitude": 80.303603,
+    "address": "Some Road, Chennai"
+  },
+  {
+    "type": "garage",
+    "name": "WheelMate",
+    "latitude": 25.637033,
+    "longitude": 85.168848,
+    "address": "Some Road, Patna"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Kolkata",
+    "latitude": 22.525527,
+    "longitude": 88.331051,
+    "address": "Some Road, Kolkata"
+  },
+  {
+    "type": "garage",
+    "name": "WheelMate",
+    "latitude": 23.302717,
+    "longitude": 77.422384,
+    "address": "Some Road, Bhopal"
+  },
+  {
+    "type": "garage",
+    "name": "WheelMate",
+    "latitude": 18.54369,
+    "longitude": 73.808204,
+    "address": "Some Road, Pune"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 17.381749,
+    "longitude": 78.525221,
+    "address": "Some Road, Hyderabad"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Pune",
+    "latitude": 18.517568,
+    "longitude": 73.899003,
+    "address": "Some Road, Pune"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Hyderabad",
+    "latitude": 17.387992,
+    "longitude": 78.515299,
+    "address": "Some Road, Hyderabad"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Ludhiana",
+    "latitude": 30.906315,
+    "longitude": 75.872825,
+    "address": "Some Road, Ludhiana"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 25.638747,
+    "longitude": 85.131451,
+    "address": "Some Road, Patna"
+  },
+  {
+    "type": "garage",
+    "name": "WheelMate",
+    "latitude": 22.677582,
+    "longitude": 75.874456,
+    "address": "Some Road, Indore"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 17.379952,
+    "longitude": 78.519909,
+    "address": "Some Road, Hyderabad"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 21.169675,
+    "longitude": 79.080961,
+    "address": "Some Road, Nagpur"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Hyderabad",
+    "latitude": 17.358478,
+    "longitude": 78.512881,
+    "address": "Some Road, Hyderabad"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Bhubaneswar",
+    "latitude": 20.334335,
+    "longitude": 85.795897,
+    "address": "Some Road, Bhubaneswar"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Patna",
+    "latitude": 25.642478,
+    "longitude": 85.135527,
+    "address": "Some Road, Patna"
+  },
+  {
+    "type": "garage",
+    "name": "WheelMate",
+    "latitude": 23.063834,
+    "longitude": 72.592851,
+    "address": "Some Road, Ahmedabad"
+  },
+  {
+    "type": "garage",
+    "name": "WheelMate",
+    "latitude": 26.79995,
+    "longitude": 80.981128,
+    "address": "Some Road, Lucknow"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 12.958794,
+    "longitude": 77.606629,
+    "address": "Some Road, Bangalore"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Patna",
+    "latitude": 25.570175,
+    "longitude": 85.180177,
+    "address": "Some Road, Patna"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 20.339756,
+    "longitude": 85.841717,
+    "address": "Some Road, Bhubaneswar"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 18.504021,
+    "longitude": 73.846589,
+    "address": "Some Road, Pune"
+  },
+  {
+    "type": "garage",
+    "name": "WheelMate",
+    "latitude": 26.888864,
+    "longitude": 75.802542,
+    "address": "Some Road, Jaipur"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Hyderabad",
+    "latitude": 17.350546,
+    "longitude": 78.507174,
+    "address": "Some Road, Hyderabad"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Jaipur",
+    "latitude": 26.886296,
+    "longitude": 75.768739,
+    "address": "Some Road, Jaipur"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Vijayawada",
+    "latitude": 16.481143,
+    "longitude": 80.662646,
+    "address": "Some Road, Vijayawada"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Kolkata",
+    "latitude": 22.531464,
+    "longitude": 88.324799,
+    "address": "Some Road, Kolkata"
+  },
+  {
+    "type": "garage",
+    "name": "WheelMate",
+    "latitude": 13.061269,
+    "longitude": 80.241767,
+    "address": "Some Road, Chennai"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 28.738941,
+    "longitude": 77.143635,
+    "address": "Some Road, Delhi"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Kolkata",
+    "latitude": 22.571965,
+    "longitude": 88.383852,
+    "address": "Some Road, Kolkata"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 28.7178,
+    "longitude": 77.063114,
+    "address": "Some Road, Delhi"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Mumbai",
+    "latitude": 19.070678,
+    "longitude": 72.895825,
+    "address": "Some Road, Mumbai"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Patna",
+    "latitude": 25.637262,
+    "longitude": 85.187515,
+    "address": "Some Road, Patna"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 18.49139,
+    "longitude": 73.833421,
+    "address": "Some Road, Pune"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 12.963809,
+    "longitude": 77.629315,
+    "address": "Some Road, Bangalore"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 22.541571,
+    "longitude": 88.359877,
+    "address": "Some Road, Kolkata"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Mumbai",
+    "latitude": 19.055419,
+    "longitude": 72.923074,
+    "address": "Some Road, Mumbai"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 20.282738,
+    "longitude": 85.799338,
+    "address": "Some Road, Bhubaneswar"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Chennai",
+    "latitude": 13.110202,
+    "longitude": 80.305995,
+    "address": "Some Road, Chennai"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 18.545047,
+    "longitude": 73.880827,
+    "address": "Some Road, Pune"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Jaipur",
+    "latitude": 26.885488,
+    "longitude": 75.811004,
+    "address": "Some Road, Jaipur"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Indore",
+    "latitude": 22.702649,
+    "longitude": 75.866662,
+    "address": "Some Road, Indore"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Pune",
+    "latitude": 18.516288,
+    "longitude": 73.814127,
+    "address": "Some Road, Pune"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Kolkata",
+    "latitude": 22.596128,
+    "longitude": 88.37077,
+    "address": "Some Road, Kolkata"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Agra",
+    "latitude": 27.172633,
+    "longitude": 78.045127,
+    "address": "Some Road, Agra"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 23.043086,
+    "longitude": 72.568915,
+    "address": "Some Road, Ahmedabad"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 19.970192,
+    "longitude": 73.836263,
+    "address": "Some Road, Nashik"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Kolkata",
+    "latitude": 22.537211,
+    "longitude": 88.356116,
+    "address": "Some Road, Kolkata"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Chennai",
+    "latitude": 13.105305,
+    "longitude": 80.317595,
+    "address": "Some Road, Chennai"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 18.545065,
+    "longitude": 73.898919,
+    "address": "Some Road, Pune"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 23.064456,
+    "longitude": 72.566535,
+    "address": "Some Road, Ahmedabad"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 23.052074,
+    "longitude": 72.617108,
+    "address": "Some Road, Ahmedabad"
+  },
+  {
+    "type": "garage",
+    "name": "WheelMate",
+    "latitude": 22.524609,
+    "longitude": 88.4015,
+    "address": "Some Road, Kolkata"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Pune",
+    "latitude": 18.499198,
+    "longitude": 73.814797,
+    "address": "Some Road, Pune"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 22.72144,
+    "longitude": 75.852499,
+    "address": "Some Road, Indore"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Bhopal",
+    "latitude": 23.213456,
+    "longitude": 77.421504,
+    "address": "Some Road, Bhopal"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 22.731016,
+    "longitude": 75.838443,
+    "address": "Some Road, Indore"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Ludhiana",
+    "latitude": 30.930717,
+    "longitude": 75.834648,
+    "address": "Some Road, Ludhiana"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Vijayawada",
+    "latitude": 16.499605,
+    "longitude": 80.646675,
+    "address": "Some Road, Vijayawada"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Nagpur",
+    "latitude": 21.114734,
+    "longitude": 79.051099,
+    "address": "Some Road, Nagpur"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Bhubaneswar",
+    "latitude": 20.28956,
+    "longitude": 85.796663,
+    "address": "Some Road, Bhubaneswar"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Delhi",
+    "latitude": 28.725836,
+    "longitude": 77.071386,
+    "address": "Some Road, Delhi"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Nashik",
+    "latitude": 20.046383,
+    "longitude": 73.825686,
+    "address": "Some Road, Nashik"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Hyderabad",
+    "latitude": 17.417269,
+    "longitude": 78.475424,
+    "address": "Some Road, Hyderabad"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Kolkata",
+    "latitude": 22.544636,
+    "longitude": 88.368314,
+    "address": "Some Road, Kolkata"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Indore",
+    "latitude": 22.689793,
+    "longitude": 75.898836,
+    "address": "Some Road, Indore"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 25.607051,
+    "longitude": 85.157798,
+    "address": "Some Road, Patna"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 16.517027,
+    "longitude": 80.642034,
+    "address": "Some Road, Vijayawada"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 16.533708,
+    "longitude": 80.651144,
+    "address": "Some Road, Vijayawada"
+  },
+  {
+    "type": "garage",
+    "name": "WheelMate",
+    "latitude": 30.916829,
+    "longitude": 75.834345,
+    "address": "Some Road, Ludhiana"
+  },
+  {
+    "type": "garage",
+    "name": "WheelMate",
+    "latitude": 19.963062,
+    "longitude": 73.799059,
+    "address": "Some Road, Nashik"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 28.734881,
+    "longitude": 77.091548,
+    "address": "Some Road, Delhi"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Patna",
+    "latitude": 25.632487,
+    "longitude": 85.101081,
+    "address": "Some Road, Patna"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Nagpur",
+    "latitude": 21.145321,
+    "longitude": 79.097894,
+    "address": "Some Road, Nagpur"
+  },
+  {
+    "type": "garage",
+    "name": "WheelMate",
+    "latitude": 16.466297,
+    "longitude": 80.643119,
+    "address": "Some Road, Vijayawada"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Lucknow",
+    "latitude": 26.822737,
+    "longitude": 80.962168,
+    "address": "Some Road, Lucknow"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Nashik",
+    "latitude": 19.985693,
+    "longitude": 73.770808,
+    "address": "Some Road, Nashik"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 19.959207,
+    "longitude": 73.745609,
+    "address": "Some Road, Nashik"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Bhopal",
+    "latitude": 23.273534,
+    "longitude": 77.376137,
+    "address": "Some Road, Bhopal"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Bhubaneswar",
+    "latitude": 20.290531,
+    "longitude": 85.789451,
+    "address": "Some Road, Bhubaneswar"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 20.436025,
+    "longitude": 85.910184,
+    "address": "Some Road, Cuttack"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 19.048827,
+    "longitude": 72.866143,
+    "address": "Some Road, Mumbai"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Ahmedabad",
+    "latitude": 23.018936,
+    "longitude": 72.57427,
+    "address": "Some Road, Ahmedabad"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 22.688891,
+    "longitude": 75.890562,
+    "address": "Some Road, Indore"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Chennai",
+    "latitude": 13.113259,
+    "longitude": 80.254974,
+    "address": "Some Road, Chennai"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Cuttack",
+    "latitude": 20.458699,
+    "longitude": 85.843825,
+    "address": "Some Road, Cuttack"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 28.679538,
+    "longitude": 77.057766,
+    "address": "Some Road, Delhi"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 22.682063,
+    "longitude": 75.906125,
+    "address": "Some Road, Indore"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Hyderabad",
+    "latitude": 17.345993,
+    "longitude": 78.43705,
+    "address": "Some Road, Hyderabad"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 30.884193,
+    "longitude": 75.807614,
+    "address": "Some Road, Ludhiana"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 22.684666,
+    "longitude": 75.817574,
+    "address": "Some Road, Indore"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 18.564151,
+    "longitude": 73.839586,
+    "address": "Some Road, Pune"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Lucknow",
+    "latitude": 26.894585,
+    "longitude": 80.935165,
+    "address": "Some Road, Lucknow"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Lucknow",
+    "latitude": 26.869415,
+    "longitude": 80.961037,
+    "address": "Some Road, Lucknow"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Kolkata",
+    "latitude": 22.596932,
+    "longitude": 88.386046,
+    "address": "Some Road, Kolkata"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 26.94467,
+    "longitude": 75.797934,
+    "address": "Some Road, Jaipur"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Bhubaneswar",
+    "latitude": 20.33205,
+    "longitude": 85.809236,
+    "address": "Some Road, Bhubaneswar"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 26.87023,
+    "longitude": 80.922739,
+    "address": "Some Road, Lucknow"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Mumbai",
+    "latitude": 19.109235,
+    "longitude": 72.883968,
+    "address": "Some Road, Mumbai"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Ludhiana",
+    "latitude": 30.875887,
+    "longitude": 75.829759,
+    "address": "Some Road, Ludhiana"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Kolkata",
+    "latitude": 22.524009,
+    "longitude": 88.356328,
+    "address": "Some Road, Kolkata"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Nagpur",
+    "latitude": 21.1421,
+    "longitude": 79.074665,
+    "address": "Some Road, Nagpur"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 26.877822,
+    "longitude": 80.958493,
+    "address": "Some Road, Lucknow"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Nashik",
+    "latitude": 20.009354,
+    "longitude": 73.775688,
+    "address": "Some Road, Nashik"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Jaipur",
+    "latitude": 26.917846,
+    "longitude": 75.834571,
+    "address": "Some Road, Jaipur"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Pune",
+    "latitude": 18.561549,
+    "longitude": 73.899372,
+    "address": "Some Road, Pune"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Hyderabad",
+    "latitude": 17.422923,
+    "longitude": 78.496168,
+    "address": "Some Road, Hyderabad"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 23.24192,
+    "longitude": 77.434376,
+    "address": "Some Road, Bhopal"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 23.284119,
+    "longitude": 77.401669,
+    "address": "Some Road, Bhopal"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Bhubaneswar",
+    "latitude": 20.247019,
+    "longitude": 85.799913,
+    "address": "Some Road, Bhubaneswar"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 25.64185,
+    "longitude": 85.156348,
+    "address": "Some Road, Patna"
+  },
+  {
+    "type": "garage",
+    "name": "WheelMate",
+    "latitude": 23.22311,
+    "longitude": 77.451688,
+    "address": "Some Road, Bhopal"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Chennai",
+    "latitude": 13.07267,
+    "longitude": 80.239087,
+    "address": "Some Road, Chennai"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Bhubaneswar",
+    "latitude": 20.273615,
+    "longitude": 85.781803,
+    "address": "Some Road, Bhubaneswar"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Agra",
+    "latitude": 27.165186,
+    "longitude": 78.040748,
+    "address": "Some Road, Agra"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Vijayawada",
+    "latitude": 16.47522,
+    "longitude": 80.619089,
+    "address": "Some Road, Vijayawada"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 28.707198,
+    "longitude": 77.075656,
+    "address": "Some Road, Delhi"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Mumbai",
+    "latitude": 19.102761,
+    "longitude": 72.831116,
+    "address": "Some Road, Mumbai"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Ahmedabad",
+    "latitude": 23.013116,
+    "longitude": 72.605869,
+    "address": "Some Road, Ahmedabad"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Bhubaneswar",
+    "latitude": 20.344048,
+    "longitude": 85.866522,
+    "address": "Some Road, Bhubaneswar"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Indore",
+    "latitude": 22.761626,
+    "longitude": 75.837347,
+    "address": "Some Road, Indore"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Bhubaneswar",
+    "latitude": 20.295573,
+    "longitude": 85.835625,
+    "address": "Some Road, Bhubaneswar"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 23.032446,
+    "longitude": 72.570583,
+    "address": "Some Road, Ahmedabad"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Lucknow",
+    "latitude": 26.861972,
+    "longitude": 80.995698,
+    "address": "Some Road, Lucknow"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Mumbai",
+    "latitude": 19.114692,
+    "longitude": 72.905893,
+    "address": "Some Road, Mumbai"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 26.870044,
+    "longitude": 80.945667,
+    "address": "Some Road, Lucknow"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 25.565097,
+    "longitude": 85.179728,
+    "address": "Some Road, Patna"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Vijayawada",
+    "latitude": 16.50861,
+    "longitude": 80.636838,
+    "address": "Some Road, Vijayawada"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 16.505801,
+    "longitude": 80.636954,
+    "address": "Some Road, Vijayawada"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 19.121784,
+    "longitude": 72.850254,
+    "address": "Some Road, Mumbai"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Cuttack",
+    "latitude": 20.419643,
+    "longitude": 85.860105,
+    "address": "Some Road, Cuttack"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Kolkata",
+    "latitude": 22.567647,
+    "longitude": 88.356984,
+    "address": "Some Road, Kolkata"
+  },
+  {
+    "type": "garage",
+    "name": "WheelMate",
+    "latitude": 13.004132,
+    "longitude": 77.576082,
+    "address": "Some Road, Bangalore"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 19.045459,
+    "longitude": 72.838178,
+    "address": "Some Road, Mumbai"
+  },
+  {
+    "type": "garage",
+    "name": "WheelMate",
+    "latitude": 25.602771,
+    "longitude": 85.157558,
+    "address": "Some Road, Patna"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 26.798677,
+    "longitude": 80.917565,
+    "address": "Some Road, Lucknow"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 22.696548,
+    "longitude": 75.875011,
+    "address": "Some Road, Indore"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 30.902157,
+    "longitude": 75.886128,
+    "address": "Some Road, Ludhiana"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 30.937282,
+    "longitude": 75.903314,
+    "address": "Some Road, Ludhiana"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 16.493176,
+    "longitude": 80.619126,
+    "address": "Some Road, Vijayawada"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Bhubaneswar",
+    "latitude": 20.296767,
+    "longitude": 85.811471,
+    "address": "Some Road, Bhubaneswar"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 22.763661,
+    "longitude": 75.818845,
+    "address": "Some Road, Indore"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Lucknow",
+    "latitude": 26.832682,
+    "longitude": 80.900833,
+    "address": "Some Road, Lucknow"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Delhi",
+    "latitude": 28.741019,
+    "longitude": 77.116635,
+    "address": "Some Road, Delhi"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Jaipur",
+    "latitude": 26.897861,
+    "longitude": 75.802903,
+    "address": "Some Road, Jaipur"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Chennai",
+    "latitude": 13.094437,
+    "longitude": 80.255218,
+    "address": "Some Road, Chennai"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Chennai",
+    "latitude": 13.039557,
+    "longitude": 80.251159,
+    "address": "Some Road, Chennai"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 21.127369,
+    "longitude": 79.076989,
+    "address": "Some Road, Nagpur"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 22.710021,
+    "longitude": 75.82228,
+    "address": "Some Road, Indore"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Lucknow",
+    "latitude": 26.866874,
+    "longitude": 80.944868,
+    "address": "Some Road, Lucknow"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Ahmedabad",
+    "latitude": 23.036766,
+    "longitude": 72.554039,
+    "address": "Some Road, Ahmedabad"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Chennai",
+    "latitude": 13.108554,
+    "longitude": 80.318163,
+    "address": "Some Road, Chennai"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 22.547376,
+    "longitude": 88.392485,
+    "address": "Some Road, Kolkata"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Agra",
+    "latitude": 27.159991,
+    "longitude": 78.017411,
+    "address": "Some Road, Agra"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Indore",
+    "latitude": 22.681678,
+    "longitude": 75.873818,
+    "address": "Some Road, Indore"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Bhubaneswar",
+    "latitude": 20.296389,
+    "longitude": 85.807609,
+    "address": "Some Road, Bhubaneswar"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Jaipur",
+    "latitude": 26.884617,
+    "longitude": 75.80126,
+    "address": "Some Road, Jaipur"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Bhopal",
+    "latitude": 23.220477,
+    "longitude": 77.419001,
+    "address": "Some Road, Bhopal"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 22.739599,
+    "longitude": 75.815277,
+    "address": "Some Road, Indore"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 13.129345,
+    "longitude": 80.287092,
+    "address": "Some Road, Chennai"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Mumbai",
+    "latitude": 19.042692,
+    "longitude": 72.909111,
+    "address": "Some Road, Mumbai"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Bangalore",
+    "latitude": 12.943937,
+    "longitude": 77.630666,
+    "address": "Some Road, Bangalore"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Jaipur",
+    "latitude": 26.911685,
+    "longitude": 75.748897,
+    "address": "Some Road, Jaipur"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Bangalore",
+    "latitude": 13.003472,
+    "longitude": 77.553677,
+    "address": "Some Road, Bangalore"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 22.670974,
+    "longitude": 75.872145,
+    "address": "Some Road, Indore"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Patna",
+    "latitude": 25.609262,
+    "longitude": 85.120162,
+    "address": "Some Road, Patna"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Lucknow",
+    "latitude": 26.873191,
+    "longitude": 80.943845,
+    "address": "Some Road, Lucknow"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Patna",
+    "latitude": 25.563604,
+    "longitude": 85.17966,
+    "address": "Some Road, Patna"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 28.671872,
+    "longitude": 77.129015,
+    "address": "Some Road, Delhi"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Vijayawada",
+    "latitude": 16.496564,
+    "longitude": 80.667173,
+    "address": "Some Road, Vijayawada"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Agra",
+    "latitude": 27.194289,
+    "longitude": 77.973588,
+    "address": "Some Road, Agra"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Pune",
+    "latitude": 18.539295,
+    "longitude": 73.876765,
+    "address": "Some Road, Pune"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 12.969739,
+    "longitude": 77.616068,
+    "address": "Some Road, Bangalore"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Nagpur",
+    "latitude": 21.184112,
+    "longitude": 79.054185,
+    "address": "Some Road, Nagpur"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Jaipur",
+    "latitude": 26.874452,
+    "longitude": 75.790307,
+    "address": "Some Road, Jaipur"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 18.532049,
+    "longitude": 73.883562,
+    "address": "Some Road, Pune"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 22.554648,
+    "longitude": 88.387131,
+    "address": "Some Road, Kolkata"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Cuttack",
+    "latitude": 20.44072,
+    "longitude": 85.911506,
+    "address": "Some Road, Cuttack"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 13.033651,
+    "longitude": 80.231452,
+    "address": "Some Road, Chennai"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 20.283364,
+    "longitude": 85.847604,
+    "address": "Some Road, Bhubaneswar"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Nashik",
+    "latitude": 19.995075,
+    "longitude": 73.77102,
+    "address": "Some Road, Nashik"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Bhopal",
+    "latitude": 23.247372,
+    "longitude": 77.376291,
+    "address": "Some Road, Bhopal"
+  },
+  {
+    "type": "garage",
+    "name": "WheelMate",
+    "latitude": 26.903735,
+    "longitude": 75.757324,
+    "address": "Some Road, Jaipur"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 16.483942,
+    "longitude": 80.628109,
+    "address": "Some Road, Vijayawada"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Mumbai",
+    "latitude": 19.028294,
+    "longitude": 72.911286,
+    "address": "Some Road, Mumbai"
+  },
+  {
+    "type": "garage",
+    "name": "WheelMate",
+    "latitude": 13.058652,
+    "longitude": 80.238397,
+    "address": "Some Road, Chennai"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 19.104832,
+    "longitude": 72.87143,
+    "address": "Some Road, Mumbai"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Ahmedabad",
+    "latitude": 22.979324,
+    "longitude": 72.531828,
+    "address": "Some Road, Ahmedabad"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 26.904537,
+    "longitude": 75.805332,
+    "address": "Some Road, Jaipur"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 17.417707,
+    "longitude": 78.532458,
+    "address": "Some Road, Hyderabad"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Indore",
+    "latitude": 22.685247,
+    "longitude": 75.847659,
+    "address": "Some Road, Indore"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 22.552506,
+    "longitude": 88.315795,
+    "address": "Some Road, Kolkata"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 27.181242,
+    "longitude": 78.055169,
+    "address": "Some Road, Agra"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 21.185812,
+    "longitude": 79.072564,
+    "address": "Some Road, Nagpur"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Delhi",
+    "latitude": 28.741938,
+    "longitude": 77.117005,
+    "address": "Some Road, Delhi"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Patna",
+    "latitude": 25.563399,
+    "longitude": 85.132299,
+    "address": "Some Road, Patna"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Pune",
+    "latitude": 18.51062,
+    "longitude": 73.831027,
+    "address": "Some Road, Pune"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Ahmedabad",
+    "latitude": 23.001619,
+    "longitude": 72.561677,
+    "address": "Some Road, Ahmedabad"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 18.504771,
+    "longitude": 73.857647,
+    "address": "Some Road, Pune"
+  },
+  {
+    "type": "garage",
+    "name": "WheelMate",
+    "latitude": 18.540266,
+    "longitude": 73.885714,
+    "address": "Some Road, Pune"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 23.221585,
+    "longitude": 77.45716,
+    "address": "Some Road, Bhopal"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 13.048751,
+    "longitude": 80.308086,
+    "address": "Some Road, Chennai"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 23.053838,
+    "longitude": 72.523436,
+    "address": "Some Road, Ahmedabad"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Vijayawada",
+    "latitude": 16.457435,
+    "longitude": 80.608972,
+    "address": "Some Road, Vijayawada"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Agra",
+    "latitude": 27.136853,
+    "longitude": 78.01405,
+    "address": "Some Road, Agra"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Bangalore",
+    "latitude": 12.964442,
+    "longitude": 77.548534,
+    "address": "Some Road, Bangalore"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Vijayawada",
+    "latitude": 16.554795,
+    "longitude": 80.612707,
+    "address": "Some Road, Vijayawada"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 19.04258,
+    "longitude": 72.890435,
+    "address": "Some Road, Mumbai"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Nashik",
+    "latitude": 19.99043,
+    "longitude": 73.7449,
+    "address": "Some Road, Nashik"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Ludhiana",
+    "latitude": 30.914426,
+    "longitude": 75.813683,
+    "address": "Some Road, Ludhiana"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Nashik",
+    "latitude": 19.997527,
+    "longitude": 73.791802,
+    "address": "Some Road, Nashik"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Cuttack",
+    "latitude": 20.49538,
+    "longitude": 85.911062,
+    "address": "Some Road, Cuttack"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Agra",
+    "latitude": 27.210523,
+    "longitude": 77.983387,
+    "address": "Some Road, Agra"
+  },
+  {
+    "type": "garage",
+    "name": "WheelMate",
+    "latitude": 21.177787,
+    "longitude": 79.058164,
+    "address": "Some Road, Nagpur"
+  },
+  {
+    "type": "garage",
+    "name": "WheelMate",
+    "latitude": 18.564665,
+    "longitude": 73.811943,
+    "address": "Some Road, Pune"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 20.032419,
+    "longitude": 73.796024,
+    "address": "Some Road, Nashik"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 13.056578,
+    "longitude": 80.230466,
+    "address": "Some Road, Chennai"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Cuttack",
+    "latitude": 20.443988,
+    "longitude": 85.877704,
+    "address": "Some Road, Cuttack"
+  },
+  {
+    "type": "garage",
+    "name": "WheelMate",
+    "latitude": 16.529118,
+    "longitude": 80.664885,
+    "address": "Some Road, Vijayawada"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Agra",
+    "latitude": 27.159813,
+    "longitude": 78.049824,
+    "address": "Some Road, Agra"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 12.953879,
+    "longitude": 77.633225,
+    "address": "Some Road, Bangalore"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Bhubaneswar",
+    "latitude": 20.344525,
+    "longitude": 85.82392,
+    "address": "Some Road, Bhubaneswar"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Delhi",
+    "latitude": 28.654302,
+    "longitude": 77.127069,
+    "address": "Some Road, Delhi"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Ludhiana",
+    "latitude": 30.924857,
+    "longitude": 75.883431,
+    "address": "Some Road, Ludhiana"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Ahmedabad",
+    "latitude": 23.022807,
+    "longitude": 72.602823,
+    "address": "Some Road, Ahmedabad"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 20.309947,
+    "longitude": 85.786451,
+    "address": "Some Road, Bhubaneswar"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 21.137624,
+    "longitude": 79.092967,
+    "address": "Some Road, Nagpur"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 20.4439,
+    "longitude": 85.840595,
+    "address": "Some Road, Cuttack"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 13.091976,
+    "longitude": 80.23085,
+    "address": "Some Road, Chennai"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 25.60175,
+    "longitude": 85.103597,
+    "address": "Some Road, Patna"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Jaipur",
+    "latitude": 26.939734,
+    "longitude": 75.805137,
+    "address": "Some Road, Jaipur"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Chennai",
+    "latitude": 13.048629,
+    "longitude": 80.257765,
+    "address": "Some Road, Chennai"
+  },
+  {
+    "type": "garage",
+    "name": "WheelMate",
+    "latitude": 22.581888,
+    "longitude": 88.331031,
+    "address": "Some Road, Kolkata"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Lucknow",
+    "latitude": 26.864355,
+    "longitude": 80.92848,
+    "address": "Some Road, Lucknow"
+  },
+  {
+    "type": "garage",
+    "name": "WheelMate",
+    "latitude": 18.482596,
+    "longitude": 73.841997,
+    "address": "Some Road, Pune"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Bhopal",
+    "latitude": 23.307678,
+    "longitude": 77.36906,
+    "address": "Some Road, Bhopal"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Nagpur",
+    "latitude": 21.184372,
+    "longitude": 79.059038,
+    "address": "Some Road, Nagpur"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 19.069918,
+    "longitude": 72.924994,
+    "address": "Some Road, Mumbai"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Lucknow",
+    "latitude": 26.857046,
+    "longitude": 80.964029,
+    "address": "Some Road, Lucknow"
+  },
+  {
+    "type": "garage",
+    "name": "WheelMate",
+    "latitude": 19.070307,
+    "longitude": 72.91252,
+    "address": "Some Road, Mumbai"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Indore",
+    "latitude": 22.764527,
+    "longitude": 75.885583,
+    "address": "Some Road, Indore"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Indore",
+    "latitude": 22.718699,
+    "longitude": 75.906247,
+    "address": "Some Road, Indore"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 28.685797,
+    "longitude": 77.085984,
+    "address": "Some Road, Delhi"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Ludhiana",
+    "latitude": 30.876972,
+    "longitude": 75.887898,
+    "address": "Some Road, Ludhiana"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Nashik",
+    "latitude": 19.976301,
+    "longitude": 73.813373,
+    "address": "Some Road, Nashik"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Ahmedabad",
+    "latitude": 23.06939,
+    "longitude": 72.55455,
+    "address": "Some Road, Ahmedabad"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Kolkata",
+    "latitude": 22.565406,
+    "longitude": 88.348621,
+    "address": "Some Road, Kolkata"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Nashik",
+    "latitude": 20.000081,
+    "longitude": 73.783303,
+    "address": "Some Road, Nashik"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Bangalore",
+    "latitude": 12.979475,
+    "longitude": 77.612346,
+    "address": "Some Road, Bangalore"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Pune",
+    "latitude": 18.497893,
+    "longitude": 73.875745,
+    "address": "Some Road, Pune"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Lucknow",
+    "latitude": 26.839351,
+    "longitude": 80.980578,
+    "address": "Some Road, Lucknow"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Hyderabad",
+    "latitude": 17.395447,
+    "longitude": 78.507341,
+    "address": "Some Road, Hyderabad"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Nashik",
+    "latitude": 20.004248,
+    "longitude": 73.76807,
+    "address": "Some Road, Nashik"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Delhi",
+    "latitude": 28.728404,
+    "longitude": 77.121581,
+    "address": "Some Road, Delhi"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 17.374915,
+    "longitude": 78.534267,
+    "address": "Some Road, Hyderabad"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 23.246197,
+    "longitude": 77.427332,
+    "address": "Some Road, Bhopal"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 23.270849,
+    "longitude": 77.451469,
+    "address": "Some Road, Bhopal"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Nagpur",
+    "latitude": 21.144652,
+    "longitude": 79.103785,
+    "address": "Some Road, Nagpur"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 19.993699,
+    "longitude": 73.832283,
+    "address": "Some Road, Nashik"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Vijayawada",
+    "latitude": 16.541631,
+    "longitude": 80.630572,
+    "address": "Some Road, Vijayawada"
+  },
+  {
+    "type": "garage",
+    "name": "WheelMate",
+    "latitude": 21.188928,
+    "longitude": 79.118637,
+    "address": "Some Road, Nagpur"
+  },
+  {
+    "type": "garage",
+    "name": "WheelMate",
+    "latitude": 27.146758,
+    "longitude": 78.008484,
+    "address": "Some Road, Agra"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 22.746835,
+    "longitude": 75.907051,
+    "address": "Some Road, Indore"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 25.578465,
+    "longitude": 85.092922,
+    "address": "Some Road, Patna"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 20.249886,
+    "longitude": 85.816511,
+    "address": "Some Road, Bhubaneswar"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Nashik",
+    "latitude": 19.955937,
+    "longitude": 73.770325,
+    "address": "Some Road, Nashik"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Pune",
+    "latitude": 18.493896,
+    "longitude": 73.817733,
+    "address": "Some Road, Pune"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Vijayawada",
+    "latitude": 16.477522,
+    "longitude": 80.616748,
+    "address": "Some Road, Vijayawada"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 25.617853,
+    "longitude": 85.146947,
+    "address": "Some Road, Patna"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Vijayawada",
+    "latitude": 16.464696,
+    "longitude": 80.635239,
+    "address": "Some Road, Vijayawada"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 28.655644,
+    "longitude": 77.054722,
+    "address": "Some Road, Delhi"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Jaipur",
+    "latitude": 26.935353,
+    "longitude": 75.749089,
+    "address": "Some Road, Jaipur"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 21.133987,
+    "longitude": 79.066683,
+    "address": "Some Road, Nagpur"
+  },
+  {
+    "type": "garage",
+    "name": "WheelMate",
+    "latitude": 20.297286,
+    "longitude": 85.806036,
+    "address": "Some Road, Bhubaneswar"
+  },
+  {
+    "type": "garage",
+    "name": "WheelMate",
+    "latitude": 30.888345,
+    "longitude": 75.895377,
+    "address": "Some Road, Ludhiana"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Patna",
+    "latitude": 25.593725,
+    "longitude": 85.091836,
+    "address": "Some Road, Patna"
+  },
+  {
+    "type": "garage",
+    "name": "WheelMate",
+    "latitude": 30.912387,
+    "longitude": 75.848384,
+    "address": "Some Road, Ludhiana"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 23.258476,
+    "longitude": 77.433284,
+    "address": "Some Road, Bhopal"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Bhubaneswar",
+    "latitude": 20.260198,
+    "longitude": 85.851497,
+    "address": "Some Road, Bhubaneswar"
+  },
+  {
+    "type": "garage",
+    "name": "WheelMate",
+    "latitude": 23.028585,
+    "longitude": 72.539057,
+    "address": "Some Road, Ahmedabad"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Bhopal",
+    "latitude": 23.234343,
+    "longitude": 77.391429,
+    "address": "Some Road, Bhopal"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Ludhiana",
+    "latitude": 30.856517,
+    "longitude": 75.84968,
+    "address": "Some Road, Ludhiana"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Lucknow",
+    "latitude": 26.860225,
+    "longitude": 80.902057,
+    "address": "Some Road, Lucknow"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Vijayawada",
+    "latitude": 16.534873,
+    "longitude": 80.670409,
+    "address": "Some Road, Vijayawada"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 13.005197,
+    "longitude": 77.626927,
+    "address": "Some Road, Bangalore"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Jaipur",
+    "latitude": 26.883985,
+    "longitude": 75.743314,
+    "address": "Some Road, Jaipur"
+  },
+  {
+    "type": "garage",
+    "name": "WheelMate",
+    "latitude": 21.106755,
+    "longitude": 79.050633,
+    "address": "Some Road, Nagpur"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 22.762653,
+    "longitude": 75.867951,
+    "address": "Some Road, Indore"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 22.724792,
+    "longitude": 75.891814,
+    "address": "Some Road, Indore"
+  },
+  {
+    "type": "garage",
+    "name": "WheelMate",
+    "latitude": 20.010387,
+    "longitude": 73.780354,
+    "address": "Some Road, Nashik"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Nashik",
+    "latitude": 20.041947,
+    "longitude": 73.788036,
+    "address": "Some Road, Nashik"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 20.327337,
+    "longitude": 85.83027,
+    "address": "Some Road, Bhubaneswar"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Ludhiana",
+    "latitude": 30.894888,
+    "longitude": 75.867434,
+    "address": "Some Road, Ludhiana"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Pune",
+    "latitude": 18.521143,
+    "longitude": 73.842404,
+    "address": "Some Road, Pune"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Bhubaneswar",
+    "latitude": 20.320264,
+    "longitude": 85.856678,
+    "address": "Some Road, Bhubaneswar"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 20.250643,
+    "longitude": 85.808433,
+    "address": "Some Road, Bhubaneswar"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Vijayawada",
+    "latitude": 16.544742,
+    "longitude": 80.691609,
+    "address": "Some Road, Vijayawada"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 18.529379,
+    "longitude": 73.860543,
+    "address": "Some Road, Pune"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Patna",
+    "latitude": 25.629917,
+    "longitude": 85.112168,
+    "address": "Some Road, Patna"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 22.999685,
+    "longitude": 72.565554,
+    "address": "Some Road, Ahmedabad"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Bhubaneswar",
+    "latitude": 20.307973,
+    "longitude": 85.796618,
+    "address": "Some Road, Bhubaneswar"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 20.30681,
+    "longitude": 85.817139,
+    "address": "Some Road, Bhubaneswar"
+  },
+  {
+    "type": "garage",
+    "name": "WheelMate",
+    "latitude": 27.195045,
+    "longitude": 78.018517,
+    "address": "Some Road, Agra"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Hyderabad",
+    "latitude": 17.370436,
+    "longitude": 78.529104,
+    "address": "Some Road, Hyderabad"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Bhubaneswar",
+    "latitude": 20.321239,
+    "longitude": 85.793292,
+    "address": "Some Road, Bhubaneswar"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 21.140274,
+    "longitude": 79.083562,
+    "address": "Some Road, Nagpur"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Kolkata",
+    "latitude": 22.52699,
+    "longitude": 88.375879,
+    "address": "Some Road, Kolkata"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 22.735442,
+    "longitude": 75.89904,
+    "address": "Some Road, Indore"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 19.085205,
+    "longitude": 72.88507,
+    "address": "Some Road, Mumbai"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Indore",
+    "latitude": 22.701851,
+    "longitude": 75.829835,
+    "address": "Some Road, Indore"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Chennai",
+    "latitude": 13.077184,
+    "longitude": 80.22364,
+    "address": "Some Road, Chennai"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Agra",
+    "latitude": 27.225701,
+    "longitude": 77.982395,
+    "address": "Some Road, Agra"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Mumbai",
+    "latitude": 19.037704,
+    "longitude": 72.841546,
+    "address": "Some Road, Mumbai"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Pune",
+    "latitude": 18.514357,
+    "longitude": 73.893088,
+    "address": "Some Road, Pune"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 17.353109,
+    "longitude": 78.533164,
+    "address": "Some Road, Hyderabad"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 20.030335,
+    "longitude": 73.817181,
+    "address": "Some Road, Nashik"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Pune",
+    "latitude": 18.508617,
+    "longitude": 73.841719,
+    "address": "Some Road, Pune"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 19.03955,
+    "longitude": 72.896999,
+    "address": "Some Road, Mumbai"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Jaipur",
+    "latitude": 26.952581,
+    "longitude": 75.836521,
+    "address": "Some Road, Jaipur"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Lucknow",
+    "latitude": 26.843945,
+    "longitude": 80.954457,
+    "address": "Some Road, Lucknow"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 19.086499,
+    "longitude": 72.841364,
+    "address": "Some Road, Mumbai"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Pune",
+    "latitude": 18.481575,
+    "longitude": 73.863164,
+    "address": "Some Road, Pune"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 25.634268,
+    "longitude": 85.178424,
+    "address": "Some Road, Patna"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Cuttack",
+    "latitude": 20.488688,
+    "longitude": 85.853791,
+    "address": "Some Road, Cuttack"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 23.237771,
+    "longitude": 77.445065,
+    "address": "Some Road, Bhopal"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Nashik",
+    "latitude": 19.965132,
+    "longitude": 73.826835,
+    "address": "Some Road, Nashik"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 22.673127,
+    "longitude": 75.859827,
+    "address": "Some Road, Indore"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 25.589843,
+    "longitude": 85.102633,
+    "address": "Some Road, Patna"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Bhopal",
+    "latitude": 23.221878,
+    "longitude": 77.376165,
+    "address": "Some Road, Bhopal"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Bhopal",
+    "latitude": 23.242269,
+    "longitude": 77.411338,
+    "address": "Some Road, Bhopal"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Pune",
+    "latitude": 18.486069,
+    "longitude": 73.817881,
+    "address": "Some Road, Pune"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 19.951279,
+    "longitude": 73.820488,
+    "address": "Some Road, Nashik"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 21.100366,
+    "longitude": 79.103512,
+    "address": "Some Road, Nagpur"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 26.880519,
+    "longitude": 80.92839,
+    "address": "Some Road, Lucknow"
+  },
+  {
+    "type": "garage",
+    "name": "WheelMate",
+    "latitude": 20.489611,
+    "longitude": 85.930803,
+    "address": "Some Road, Cuttack"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Nagpur",
+    "latitude": 21.097942,
+    "longitude": 79.062993,
+    "address": "Some Road, Nagpur"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Kolkata",
+    "latitude": 22.557369,
+    "longitude": 88.35752,
+    "address": "Some Road, Kolkata"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Indore",
+    "latitude": 22.747951,
+    "longitude": 75.837754,
+    "address": "Some Road, Indore"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Kolkata",
+    "latitude": 22.557285,
+    "longitude": 88.33025,
+    "address": "Some Road, Kolkata"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Kolkata",
+    "latitude": 22.575427,
+    "longitude": 88.338699,
+    "address": "Some Road, Kolkata"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Bhopal",
+    "latitude": 23.218092,
+    "longitude": 77.385008,
+    "address": "Some Road, Bhopal"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Lucknow",
+    "latitude": 26.887919,
+    "longitude": 80.96663,
+    "address": "Some Road, Lucknow"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 18.480607,
+    "longitude": 73.877032,
+    "address": "Some Road, Pune"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 13.035826,
+    "longitude": 80.231183,
+    "address": "Some Road, Chennai"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Patna",
+    "latitude": 25.634977,
+    "longitude": 85.102139,
+    "address": "Some Road, Patna"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Cuttack",
+    "latitude": 20.433957,
+    "longitude": 85.858466,
+    "address": "Some Road, Cuttack"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 12.953985,
+    "longitude": 77.552694,
+    "address": "Some Road, Bangalore"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Patna",
+    "latitude": 25.575799,
+    "longitude": 85.11185,
+    "address": "Some Road, Patna"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Jaipur",
+    "latitude": 26.940125,
+    "longitude": 75.834252,
+    "address": "Some Road, Jaipur"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 23.277703,
+    "longitude": 77.425426,
+    "address": "Some Road, Bhopal"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 19.968403,
+    "longitude": 73.815321,
+    "address": "Some Road, Nashik"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Nashik",
+    "latitude": 20.029691,
+    "longitude": 73.804627,
+    "address": "Some Road, Nashik"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 21.134694,
+    "longitude": 79.096594,
+    "address": "Some Road, Nagpur"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 23.269728,
+    "longitude": 77.418265,
+    "address": "Some Road, Bhopal"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 26.854161,
+    "longitude": 80.994019,
+    "address": "Some Road, Lucknow"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Agra",
+    "latitude": 27.223947,
+    "longitude": 77.992812,
+    "address": "Some Road, Agra"
+  },
+  {
+    "type": "garage",
+    "name": "WheelMate",
+    "latitude": 16.494815,
+    "longitude": 80.632243,
+    "address": "Some Road, Vijayawada"
+  },
+  {
+    "type": "garage",
+    "name": "WheelMate",
+    "latitude": 28.752936,
+    "longitude": 77.11451,
+    "address": "Some Road, Delhi"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Patna",
+    "latitude": 25.551635,
+    "longitude": 85.163944,
+    "address": "Some Road, Patna"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Nashik",
+    "latitude": 19.969526,
+    "longitude": 73.822104,
+    "address": "Some Road, Nashik"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 13.104718,
+    "longitude": 80.227428,
+    "address": "Some Road, Chennai"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Bangalore",
+    "latitude": 12.930801,
+    "longitude": 77.560662,
+    "address": "Some Road, Bangalore"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Mumbai",
+    "latitude": 19.103115,
+    "longitude": 72.858572,
+    "address": "Some Road, Mumbai"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Nashik",
+    "latitude": 20.004582,
+    "longitude": 73.831409,
+    "address": "Some Road, Nashik"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Ahmedabad",
+    "latitude": 23.025391,
+    "longitude": 72.582948,
+    "address": "Some Road, Ahmedabad"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 22.979609,
+    "longitude": 72.603013,
+    "address": "Some Road, Ahmedabad"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Bhubaneswar",
+    "latitude": 20.332256,
+    "longitude": 85.807941,
+    "address": "Some Road, Bhubaneswar"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Chennai",
+    "latitude": 13.118249,
+    "longitude": 80.265705,
+    "address": "Some Road, Chennai"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 26.931969,
+    "longitude": 75.786492,
+    "address": "Some Road, Jaipur"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Cuttack",
+    "latitude": 20.477397,
+    "longitude": 85.911157,
+    "address": "Some Road, Cuttack"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 21.098497,
+    "longitude": 79.13083,
+    "address": "Some Road, Nagpur"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 22.554356,
+    "longitude": 88.335935,
+    "address": "Some Road, Kolkata"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 19.047002,
+    "longitude": 72.911396,
+    "address": "Some Road, Mumbai"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 26.953623,
+    "longitude": 75.778077,
+    "address": "Some Road, Jaipur"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 23.239545,
+    "longitude": 77.406965,
+    "address": "Some Road, Bhopal"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Chennai",
+    "latitude": 13.047916,
+    "longitude": 80.23561,
+    "address": "Some Road, Chennai"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 23.221328,
+    "longitude": 77.391851,
+    "address": "Some Road, Bhopal"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Hyderabad",
+    "latitude": 17.376556,
+    "longitude": 78.50035,
+    "address": "Some Road, Hyderabad"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 27.128249,
+    "longitude": 78.025315,
+    "address": "Some Road, Agra"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 20.501856,
+    "longitude": 85.848655,
+    "address": "Some Road, Cuttack"
+  },
+  {
+    "type": "garage",
+    "name": "WheelMate",
+    "latitude": 27.216856,
+    "longitude": 78.045608,
+    "address": "Some Road, Agra"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Vijayawada",
+    "latitude": 16.537891,
+    "longitude": 80.671972,
+    "address": "Some Road, Vijayawada"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Agra",
+    "latitude": 27.16975,
+    "longitude": 78.034027,
+    "address": "Some Road, Agra"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Ludhiana",
+    "latitude": 30.940914,
+    "longitude": 75.903367,
+    "address": "Some Road, Ludhiana"
+  },
+  {
+    "type": "garage",
+    "name": "WheelMate",
+    "latitude": 18.532166,
+    "longitude": 73.86334,
+    "address": "Some Road, Pune"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Vijayawada",
+    "latitude": 16.495785,
+    "longitude": 80.655374,
+    "address": "Some Road, Vijayawada"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 26.881624,
+    "longitude": 75.82618,
+    "address": "Some Road, Jaipur"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Cuttack",
+    "latitude": 20.478857,
+    "longitude": 85.914313,
+    "address": "Some Road, Cuttack"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 27.160706,
+    "longitude": 78.044737,
+    "address": "Some Road, Agra"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 25.5569,
+    "longitude": 85.103221,
+    "address": "Some Road, Patna"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 19.042178,
+    "longitude": 72.86176,
+    "address": "Some Road, Mumbai"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Patna",
+    "latitude": 25.589119,
+    "longitude": 85.096634,
+    "address": "Some Road, Patna"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 26.907854,
+    "longitude": 75.776072,
+    "address": "Some Road, Jaipur"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Hyderabad",
+    "latitude": 17.407211,
+    "longitude": 78.438587,
+    "address": "Some Road, Hyderabad"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 22.69469,
+    "longitude": 75.822511,
+    "address": "Some Road, Indore"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Kolkata",
+    "latitude": 22.603456,
+    "longitude": 88.409719,
+    "address": "Some Road, Kolkata"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 16.466057,
+    "longitude": 80.605018,
+    "address": "Some Road, Vijayawada"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Lucknow",
+    "latitude": 26.81591,
+    "longitude": 80.962195,
+    "address": "Some Road, Lucknow"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Cuttack",
+    "latitude": 20.421231,
+    "longitude": 85.925752,
+    "address": "Some Road, Cuttack"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 28.678944,
+    "longitude": 77.121479,
+    "address": "Some Road, Delhi"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 30.945796,
+    "longitude": 75.901821,
+    "address": "Some Road, Ludhiana"
+  },
+  {
+    "type": "garage",
+    "name": "WheelMate",
+    "latitude": 21.161706,
+    "longitude": 79.118611,
+    "address": "Some Road, Nagpur"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Indore",
+    "latitude": 22.680694,
+    "longitude": 75.827951,
+    "address": "Some Road, Indore"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 26.87407,
+    "longitude": 80.970027,
+    "address": "Some Road, Lucknow"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Delhi",
+    "latitude": 28.72724,
+    "longitude": 77.071528,
+    "address": "Some Road, Delhi"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Patna",
+    "latitude": 25.596932,
+    "longitude": 85.181989,
+    "address": "Some Road, Patna"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 17.335302,
+    "longitude": 78.443504,
+    "address": "Some Road, Hyderabad"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 21.128614,
+    "longitude": 79.08478,
+    "address": "Some Road, Nagpur"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Mumbai",
+    "latitude": 19.05622,
+    "longitude": 72.887492,
+    "address": "Some Road, Mumbai"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Bhubaneswar",
+    "latitude": 20.302732,
+    "longitude": 85.8488,
+    "address": "Some Road, Bhubaneswar"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 18.55824,
+    "longitude": 73.854074,
+    "address": "Some Road, Pune"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Delhi",
+    "latitude": 28.720301,
+    "longitude": 77.138047,
+    "address": "Some Road, Delhi"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Nagpur",
+    "latitude": 21.097425,
+    "longitude": 79.04407,
+    "address": "Some Road, Nagpur"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Nashik",
+    "latitude": 20.016417,
+    "longitude": 73.784487,
+    "address": "Some Road, Nashik"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Bhopal",
+    "latitude": 23.264618,
+    "longitude": 77.417466,
+    "address": "Some Road, Bhopal"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 17.386129,
+    "longitude": 78.53076,
+    "address": "Some Road, Hyderabad"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 19.049366,
+    "longitude": 72.911954,
+    "address": "Some Road, Mumbai"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Delhi",
+    "latitude": 28.747693,
+    "longitude": 77.109795,
+    "address": "Some Road, Delhi"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Bhubaneswar",
+    "latitude": 20.256496,
+    "longitude": 85.789277,
+    "address": "Some Road, Bhubaneswar"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Ludhiana",
+    "latitude": 30.913227,
+    "longitude": 75.832861,
+    "address": "Some Road, Ludhiana"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Kolkata",
+    "latitude": 22.567198,
+    "longitude": 88.333876,
+    "address": "Some Road, Kolkata"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Bangalore",
+    "latitude": 12.923128,
+    "longitude": 77.606884,
+    "address": "Some Road, Bangalore"
+  },
+  {
+    "type": "garage",
+    "name": "WheelMate",
+    "latitude": 21.104173,
+    "longitude": 79.048508,
+    "address": "Some Road, Nagpur"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Pune",
+    "latitude": 18.558641,
+    "longitude": 73.855562,
+    "address": "Some Road, Pune"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Bangalore",
+    "latitude": 12.99395,
+    "longitude": 77.619212,
+    "address": "Some Road, Bangalore"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 23.295643,
+    "longitude": 77.442698,
+    "address": "Some Road, Bhopal"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 17.377392,
+    "longitude": 78.446433,
+    "address": "Some Road, Hyderabad"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 22.595407,
+    "longitude": 88.403245,
+    "address": "Some Road, Kolkata"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 30.937146,
+    "longitude": 75.817742,
+    "address": "Some Road, Ludhiana"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 30.911644,
+    "longitude": 75.895026,
+    "address": "Some Road, Ludhiana"
+  },
+  {
+    "type": "garage",
+    "name": "WheelMate",
+    "latitude": 27.183456,
+    "longitude": 78.012257,
+    "address": "Some Road, Agra"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Ludhiana",
+    "latitude": 30.855803,
+    "longitude": 75.853329,
+    "address": "Some Road, Ludhiana"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 20.342125,
+    "longitude": 85.805533,
+    "address": "Some Road, Bhubaneswar"
+  },
+  {
+    "type": "garage",
+    "name": "WheelMate",
+    "latitude": 18.517415,
+    "longitude": 73.813436,
+    "address": "Some Road, Pune"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Nagpur",
+    "latitude": 21.119256,
+    "longitude": 79.108899,
+    "address": "Some Road, Nagpur"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 20.298281,
+    "longitude": 85.802368,
+    "address": "Some Road, Bhubaneswar"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 27.138687,
+    "longitude": 78.036681,
+    "address": "Some Road, Agra"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 19.046433,
+    "longitude": 72.863227,
+    "address": "Some Road, Mumbai"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Nagpur",
+    "latitude": 21.109019,
+    "longitude": 79.08842,
+    "address": "Some Road, Nagpur"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Ahmedabad",
+    "latitude": 23.061196,
+    "longitude": 72.600618,
+    "address": "Some Road, Ahmedabad"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Vijayawada",
+    "latitude": 16.55182,
+    "longitude": 80.639344,
+    "address": "Some Road, Vijayawada"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Jaipur",
+    "latitude": 26.878851,
+    "longitude": 75.815926,
+    "address": "Some Road, Jaipur"
+  },
+  {
+    "type": "garage",
+    "name": "WheelMate",
+    "latitude": 23.225396,
+    "longitude": 77.366018,
+    "address": "Some Road, Bhopal"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 26.867269,
+    "longitude": 75.809124,
+    "address": "Some Road, Jaipur"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Nagpur",
+    "latitude": 21.191896,
+    "longitude": 79.126868,
+    "address": "Some Road, Nagpur"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Chennai",
+    "latitude": 13.06266,
+    "longitude": 80.278532,
+    "address": "Some Road, Chennai"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 26.845714,
+    "longitude": 80.947017,
+    "address": "Some Road, Lucknow"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Patna",
+    "latitude": 25.579273,
+    "longitude": 85.184368,
+    "address": "Some Road, Patna"
+  },
+  {
+    "type": "garage",
+    "name": "WheelMate",
+    "latitude": 19.998053,
+    "longitude": 73.790704,
+    "address": "Some Road, Nashik"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Kolkata",
+    "latitude": 22.566693,
+    "longitude": 88.395534,
+    "address": "Some Road, Kolkata"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Nagpur",
+    "latitude": 21.174114,
+    "longitude": 79.086092,
+    "address": "Some Road, Nagpur"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Chennai",
+    "latitude": 13.086584,
+    "longitude": 80.273157,
+    "address": "Some Road, Chennai"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Bhopal",
+    "latitude": 23.28354,
+    "longitude": 77.44883,
+    "address": "Some Road, Bhopal"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 22.695636,
+    "longitude": 75.833237,
+    "address": "Some Road, Indore"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Nagpur",
+    "latitude": 21.135352,
+    "longitude": 79.121796,
+    "address": "Some Road, Nagpur"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Nashik",
+    "latitude": 20.012284,
+    "longitude": 73.828759,
+    "address": "Some Road, Nashik"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 20.293941,
+    "longitude": 85.873922,
+    "address": "Some Road, Bhubaneswar"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Agra",
+    "latitude": 27.187975,
+    "longitude": 78.04024,
+    "address": "Some Road, Agra"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Hyderabad",
+    "latitude": 17.421932,
+    "longitude": 78.519672,
+    "address": "Some Road, Hyderabad"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 23.020313,
+    "longitude": 72.571568,
+    "address": "Some Road, Ahmedabad"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Bhubaneswar",
+    "latitude": 20.340249,
+    "longitude": 85.868971,
+    "address": "Some Road, Bhubaneswar"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Chennai",
+    "latitude": 13.049563,
+    "longitude": 80.298429,
+    "address": "Some Road, Chennai"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Bhubaneswar",
+    "latitude": 20.303262,
+    "longitude": 85.777758,
+    "address": "Some Road, Bhubaneswar"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 27.174909,
+    "longitude": 77.97069,
+    "address": "Some Road, Agra"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 26.895232,
+    "longitude": 75.738344,
+    "address": "Some Road, Jaipur"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Kolkata",
+    "latitude": 22.566607,
+    "longitude": 88.362546,
+    "address": "Some Road, Kolkata"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 22.767303,
+    "longitude": 75.813098,
+    "address": "Some Road, Indore"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Delhi",
+    "latitude": 28.677798,
+    "longitude": 77.054222,
+    "address": "Some Road, Delhi"
+  },
+  {
+    "type": "garage",
+    "name": "WheelMate",
+    "latitude": 13.112641,
+    "longitude": 80.246081,
+    "address": "Some Road, Chennai"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Bhubaneswar",
+    "latitude": 20.293819,
+    "longitude": 85.873597,
+    "address": "Some Road, Bhubaneswar"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Cuttack",
+    "latitude": 20.50413,
+    "longitude": 85.842459,
+    "address": "Some Road, Cuttack"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Chennai",
+    "latitude": 13.10974,
+    "longitude": 80.246615,
+    "address": "Some Road, Chennai"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 22.582848,
+    "longitude": 88.33302,
+    "address": "Some Road, Kolkata"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 12.938398,
+    "longitude": 77.56886,
+    "address": "Some Road, Bangalore"
+  },
+  {
+    "type": "garage",
+    "name": "WheelMate",
+    "latitude": 13.108077,
+    "longitude": 80.266065,
+    "address": "Some Road, Chennai"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 19.109082,
+    "longitude": 72.910217,
+    "address": "Some Road, Mumbai"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 19.979006,
+    "longitude": 73.766697,
+    "address": "Some Road, Nashik"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Nagpur",
+    "latitude": 21.181269,
+    "longitude": 79.066886,
+    "address": "Some Road, Nagpur"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Patna",
+    "latitude": 25.609174,
+    "longitude": 85.175638,
+    "address": "Some Road, Patna"
+  },
+  {
+    "type": "garage",
+    "name": "WheelMate",
+    "latitude": 19.075921,
+    "longitude": 72.904248,
+    "address": "Some Road, Mumbai"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Vijayawada",
+    "latitude": 16.551624,
+    "longitude": 80.692165,
+    "address": "Some Road, Vijayawada"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Chennai",
+    "latitude": 13.070509,
+    "longitude": 80.248583,
+    "address": "Some Road, Chennai"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Nagpur",
+    "latitude": 21.170433,
+    "longitude": 79.115661,
+    "address": "Some Road, Nagpur"
+  },
+  {
+    "type": "garage",
+    "name": "WheelMate",
+    "latitude": 12.927032,
+    "longitude": 77.592325,
+    "address": "Some Road, Bangalore"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 25.632991,
+    "longitude": 85.121632,
+    "address": "Some Road, Patna"
+  },
+  {
+    "type": "garage",
+    "name": "WheelMate",
+    "latitude": 20.43107,
+    "longitude": 85.897863,
+    "address": "Some Road, Cuttack"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 16.460422,
+    "longitude": 80.690832,
+    "address": "Some Road, Vijayawada"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Delhi",
+    "latitude": 28.656275,
+    "longitude": 77.068836,
+    "address": "Some Road, Delhi"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 13.085063,
+    "longitude": 80.233054,
+    "address": "Some Road, Chennai"
+  },
+  {
+    "type": "garage",
+    "name": "WheelMate",
+    "latitude": 22.672055,
+    "longitude": 75.865873,
+    "address": "Some Road, Indore"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 21.122323,
+    "longitude": 79.09672,
+    "address": "Some Road, Nagpur"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Pune",
+    "latitude": 18.478577,
+    "longitude": 73.853106,
+    "address": "Some Road, Pune"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Bhopal",
+    "latitude": 23.275773,
+    "longitude": 77.452089,
+    "address": "Some Road, Bhopal"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Mumbai",
+    "latitude": 19.088931,
+    "longitude": 72.858533,
+    "address": "Some Road, Mumbai"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 20.033235,
+    "longitude": 73.747452,
+    "address": "Some Road, Nashik"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 23.224538,
+    "longitude": 77.423358,
+    "address": "Some Road, Bhopal"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Ahmedabad",
+    "latitude": 23.053565,
+    "longitude": 72.616818,
+    "address": "Some Road, Ahmedabad"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 23.227244,
+    "longitude": 77.402518,
+    "address": "Some Road, Bhopal"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Nagpur",
+    "latitude": 21.170065,
+    "longitude": 79.090471,
+    "address": "Some Road, Nagpur"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Kolkata",
+    "latitude": 22.535296,
+    "longitude": 88.325514,
+    "address": "Some Road, Kolkata"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 20.023272,
+    "longitude": 73.806783,
+    "address": "Some Road, Nashik"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 30.945647,
+    "longitude": 75.90529,
+    "address": "Some Road, Ludhiana"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Cuttack",
+    "latitude": 20.446327,
+    "longitude": 85.851898,
+    "address": "Some Road, Cuttack"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Bhopal",
+    "latitude": 23.23307,
+    "longitude": 77.424307,
+    "address": "Some Road, Bhopal"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Nagpur",
+    "latitude": 21.132132,
+    "longitude": 79.085754,
+    "address": "Some Road, Nagpur"
+  },
+  {
+    "type": "garage",
+    "name": "WheelMate",
+    "latitude": 20.329215,
+    "longitude": 85.819572,
+    "address": "Some Road, Bhubaneswar"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 13.004258,
+    "longitude": 77.568905,
+    "address": "Some Road, Bangalore"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 18.549017,
+    "longitude": 73.809084,
+    "address": "Some Road, Pune"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Chennai",
+    "latitude": 13.066946,
+    "longitude": 80.236579,
+    "address": "Some Road, Chennai"
+  },
+  {
+    "type": "garage",
+    "name": "WheelMate",
+    "latitude": 22.528379,
+    "longitude": 88.403083,
+    "address": "Some Road, Kolkata"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 28.74904,
+    "longitude": 77.073082,
+    "address": "Some Road, Delhi"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 26.806332,
+    "longitude": 80.97964,
+    "address": "Some Road, Lucknow"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 20.291475,
+    "longitude": 85.812216,
+    "address": "Some Road, Bhubaneswar"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Bangalore",
+    "latitude": 12.983223,
+    "longitude": 77.64154,
+    "address": "Some Road, Bangalore"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 13.020626,
+    "longitude": 77.607904,
+    "address": "Some Road, Bangalore"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Bhubaneswar",
+    "latitude": 20.34328,
+    "longitude": 85.844451,
+    "address": "Some Road, Bhubaneswar"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Hyderabad",
+    "latitude": 17.395065,
+    "longitude": 78.524892,
+    "address": "Some Road, Hyderabad"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Chennai",
+    "latitude": 13.114579,
+    "longitude": 80.239025,
+    "address": "Some Road, Chennai"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Delhi",
+    "latitude": 28.658625,
+    "longitude": 77.102752,
+    "address": "Some Road, Delhi"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 26.804073,
+    "longitude": 80.916765,
+    "address": "Some Road, Lucknow"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 26.905735,
+    "longitude": 75.753298,
+    "address": "Some Road, Jaipur"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 18.476179,
+    "longitude": 73.874033,
+    "address": "Some Road, Pune"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 18.487243,
+    "longitude": 73.853297,
+    "address": "Some Road, Pune"
+  },
+  {
+    "type": "garage",
+    "name": "WheelMate",
+    "latitude": 20.270816,
+    "longitude": 85.852923,
+    "address": "Some Road, Bhubaneswar"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Lucknow",
+    "latitude": 26.806167,
+    "longitude": 80.905849,
+    "address": "Some Road, Lucknow"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Nashik",
+    "latitude": 19.951597,
+    "longitude": 73.791339,
+    "address": "Some Road, Nashik"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 28.700235,
+    "longitude": 77.131802,
+    "address": "Some Road, Delhi"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 26.833932,
+    "longitude": 80.910928,
+    "address": "Some Road, Lucknow"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 20.278517,
+    "longitude": 85.867329,
+    "address": "Some Road, Bhubaneswar"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 27.206709,
+    "longitude": 77.99657,
+    "address": "Some Road, Agra"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 22.700579,
+    "longitude": 75.898068,
+    "address": "Some Road, Indore"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Indore",
+    "latitude": 22.684238,
+    "longitude": 75.822983,
+    "address": "Some Road, Indore"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 23.037054,
+    "longitude": 72.581504,
+    "address": "Some Road, Ahmedabad"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 21.164851,
+    "longitude": 79.059909,
+    "address": "Some Road, Nagpur"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Ludhiana",
+    "latitude": 30.904873,
+    "longitude": 75.906341,
+    "address": "Some Road, Ludhiana"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 16.497645,
+    "longitude": 80.645455,
+    "address": "Some Road, Vijayawada"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Agra",
+    "latitude": 27.207437,
+    "longitude": 78.022907,
+    "address": "Some Road, Agra"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Ludhiana",
+    "latitude": 30.853202,
+    "longitude": 75.846485,
+    "address": "Some Road, Ludhiana"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Bhopal",
+    "latitude": 23.221584,
+    "longitude": 77.434425,
+    "address": "Some Road, Bhopal"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Lucknow",
+    "latitude": 26.797596,
+    "longitude": 80.902413,
+    "address": "Some Road, Lucknow"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Bangalore",
+    "latitude": 12.930354,
+    "longitude": 77.630178,
+    "address": "Some Road, Bangalore"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 23.232648,
+    "longitude": 77.385781,
+    "address": "Some Road, Bhopal"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 28.664246,
+    "longitude": 77.116467,
+    "address": "Some Road, Delhi"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 26.95275,
+    "longitude": 75.792641,
+    "address": "Some Road, Jaipur"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Delhi",
+    "latitude": 28.698006,
+    "longitude": 77.138173,
+    "address": "Some Road, Delhi"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 23.248992,
+    "longitude": 77.451422,
+    "address": "Some Road, Bhopal"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Chennai",
+    "latitude": 13.063298,
+    "longitude": 80.243898,
+    "address": "Some Road, Chennai"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 20.427739,
+    "longitude": 85.833402,
+    "address": "Some Road, Cuttack"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Hyderabad",
+    "latitude": 17.353187,
+    "longitude": 78.478587,
+    "address": "Some Road, Hyderabad"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Bhubaneswar",
+    "latitude": 20.316182,
+    "longitude": 85.868318,
+    "address": "Some Road, Bhubaneswar"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Ahmedabad",
+    "latitude": 23.004402,
+    "longitude": 72.621318,
+    "address": "Some Road, Ahmedabad"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Patna",
+    "latitude": 25.598858,
+    "longitude": 85.092911,
+    "address": "Some Road, Patna"
+  },
+  {
+    "type": "garage",
+    "name": "WheelMate",
+    "latitude": 26.883445,
+    "longitude": 75.793942,
+    "address": "Some Road, Jaipur"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 20.033352,
+    "longitude": 73.812951,
+    "address": "Some Road, Nashik"
+  },
+  {
+    "type": "garage",
+    "name": "WheelMate",
+    "latitude": 19.060276,
+    "longitude": 72.857499,
+    "address": "Some Road, Mumbai"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 19.061965,
+    "longitude": 72.865946,
+    "address": "Some Road, Mumbai"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Cuttack",
+    "latitude": 20.439846,
+    "longitude": 85.870843,
+    "address": "Some Road, Cuttack"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Delhi",
+    "latitude": 28.66106,
+    "longitude": 77.099435,
+    "address": "Some Road, Delhi"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Pune",
+    "latitude": 18.565504,
+    "longitude": 73.819099,
+    "address": "Some Road, Pune"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Jaipur",
+    "latitude": 26.903113,
+    "longitude": 75.780796,
+    "address": "Some Road, Jaipur"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 20.454761,
+    "longitude": 85.917746,
+    "address": "Some Road, Cuttack"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Ahmedabad",
+    "latitude": 23.002171,
+    "longitude": 72.601111,
+    "address": "Some Road, Ahmedabad"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 20.320745,
+    "longitude": 85.794439,
+    "address": "Some Road, Bhubaneswar"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 19.028715,
+    "longitude": 72.878111,
+    "address": "Some Road, Mumbai"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Cuttack",
+    "latitude": 20.473014,
+    "longitude": 85.884824,
+    "address": "Some Road, Cuttack"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 22.980096,
+    "longitude": 72.588514,
+    "address": "Some Road, Ahmedabad"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 19.977991,
+    "longitude": 73.785883,
+    "address": "Some Road, Nashik"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 26.912912,
+    "longitude": 75.757309,
+    "address": "Some Road, Jaipur"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Patna",
+    "latitude": 25.547808,
+    "longitude": 85.15275,
+    "address": "Some Road, Patna"
+  },
+  {
+    "type": "garage",
+    "name": "WheelMate",
+    "latitude": 26.943279,
+    "longitude": 75.816138,
+    "address": "Some Road, Jaipur"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 21.152041,
+    "longitude": 79.111826,
+    "address": "Some Road, Nagpur"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 26.89541,
+    "longitude": 75.747244,
+    "address": "Some Road, Jaipur"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 12.934855,
+    "longitude": 77.598146,
+    "address": "Some Road, Bangalore"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 21.101009,
+    "longitude": 79.057826,
+    "address": "Some Road, Nagpur"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 21.19086,
+    "longitude": 79.072951,
+    "address": "Some Road, Nagpur"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Agra",
+    "latitude": 27.165014,
+    "longitude": 78.035777,
+    "address": "Some Road, Agra"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 20.453823,
+    "longitude": 85.839308,
+    "address": "Some Road, Cuttack"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 21.194147,
+    "longitude": 79.132173,
+    "address": "Some Road, Nagpur"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Nagpur",
+    "latitude": 21.103893,
+    "longitude": 79.074027,
+    "address": "Some Road, Nagpur"
+  },
+  {
+    "type": "garage",
+    "name": "WheelMate",
+    "latitude": 19.988106,
+    "longitude": 73.786691,
+    "address": "Some Road, Nashik"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 18.535875,
+    "longitude": 73.850154,
+    "address": "Some Road, Pune"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 26.926992,
+    "longitude": 75.828773,
+    "address": "Some Road, Jaipur"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Ahmedabad",
+    "latitude": 23.052196,
+    "longitude": 72.618334,
+    "address": "Some Road, Ahmedabad"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Bhopal",
+    "latitude": 23.289758,
+    "longitude": 77.410215,
+    "address": "Some Road, Bhopal"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Lucknow",
+    "latitude": 26.803771,
+    "longitude": 80.970356,
+    "address": "Some Road, Lucknow"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Cuttack",
+    "latitude": 20.508125,
+    "longitude": 85.852166,
+    "address": "Some Road, Cuttack"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 13.005661,
+    "longitude": 77.552945,
+    "address": "Some Road, Bangalore"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Agra",
+    "latitude": 27.139255,
+    "longitude": 77.996178,
+    "address": "Some Road, Agra"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 27.14641,
+    "longitude": 78.050385,
+    "address": "Some Road, Agra"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Indore",
+    "latitude": 22.684658,
+    "longitude": 75.885001,
+    "address": "Some Road, Indore"
+  },
+  {
+    "type": "garage",
+    "name": "WheelMate",
+    "latitude": 26.840866,
+    "longitude": 80.926067,
+    "address": "Some Road, Lucknow"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 21.147802,
+    "longitude": 79.07946,
+    "address": "Some Road, Nagpur"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Bhubaneswar",
+    "latitude": 20.338591,
+    "longitude": 85.865561,
+    "address": "Some Road, Bhubaneswar"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Mumbai",
+    "latitude": 19.108488,
+    "longitude": 72.878808,
+    "address": "Some Road, Mumbai"
+  },
+  {
+    "type": "garage",
+    "name": "WheelMate",
+    "latitude": 13.065347,
+    "longitude": 80.226778,
+    "address": "Some Road, Chennai"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Bangalore",
+    "latitude": 13.020055,
+    "longitude": 77.565899,
+    "address": "Some Road, Bangalore"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Cuttack",
+    "latitude": 20.475592,
+    "longitude": 85.919804,
+    "address": "Some Road, Cuttack"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Nashik",
+    "latitude": 19.997843,
+    "longitude": 73.741146,
+    "address": "Some Road, Nashik"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 19.961053,
+    "longitude": 73.836666,
+    "address": "Some Road, Nashik"
+  },
+  {
+    "type": "fuel",
+    "name": "HP Petrol, Chennai",
+    "latitude": 13.061961,
+    "longitude": 80.247402,
+    "address": "Some Road, Chennai"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Chennai",
+    "latitude": 13.069569,
+    "longitude": 80.27865,
+    "address": "Some Road, Chennai"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 22.973552,
+    "longitude": 72.569282,
+    "address": "Some Road, Ahmedabad"
+  },
+  {
+    "type": "garage",
+    "name": "WheelMate",
+    "latitude": 21.194996,
+    "longitude": 79.111815,
+    "address": "Some Road, Nagpur"
+  },
+  {
+    "type": "garage",
+    "name": "AutoFix Garage",
+    "latitude": 12.971523,
+    "longitude": 77.628604,
+    "address": "Some Road, Bangalore"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 26.895943,
+    "longitude": 75.751504,
+    "address": "Some Road, Jaipur"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Kolkata",
+    "latitude": 22.569865,
+    "longitude": 88.372798,
+    "address": "Some Road, Kolkata"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Ludhiana",
+    "latitude": 30.877085,
+    "longitude": 75.811626,
+    "address": "Some Road, Ludhiana"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Bhubaneswar",
+    "latitude": 20.268812,
+    "longitude": 85.808991,
+    "address": "Some Road, Bhubaneswar"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 26.843713,
+    "longitude": 80.988525,
+    "address": "Some Road, Lucknow"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 16.514983,
+    "longitude": 80.674021,
+    "address": "Some Road, Vijayawada"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Vijayawada",
+    "latitude": 16.456864,
+    "longitude": 80.653439,
+    "address": "Some Road, Vijayawada"
+  },
+  {
+    "type": "garage",
+    "name": "WheelMate",
+    "latitude": 16.468184,
+    "longitude": 80.620991,
+    "address": "Some Road, Vijayawada"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 18.563724,
+    "longitude": 73.85093,
+    "address": "Some Road, Pune"
+  },
+  {
+    "type": "garage",
+    "name": "QuickRepair",
+    "latitude": 12.995607,
+    "longitude": 77.609394,
+    "address": "Some Road, Bangalore"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 26.883005,
+    "longitude": 75.833748,
+    "address": "Some Road, Jaipur"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Vijayawada",
+    "latitude": 16.527863,
+    "longitude": 80.616298,
+    "address": "Some Road, Vijayawada"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Kolkata",
+    "latitude": 22.605775,
+    "longitude": 88.340839,
+    "address": "Some Road, Kolkata"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Ludhiana",
+    "latitude": 30.908159,
+    "longitude": 75.832458,
+    "address": "Some Road, Ludhiana"
+  },
+  {
+    "type": "fuel",
+    "name": "Indian Oil, Patna",
+    "latitude": 25.636256,
+    "longitude": 85.180422,
+    "address": "Some Road, Patna"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Bhopal",
+    "latitude": 23.258777,
+    "longitude": 77.407045,
+    "address": "Some Road, Bhopal"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 16.481897,
+    "longitude": 80.604197,
+    "address": "Some Road, Vijayawada"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Hyderabad",
+    "latitude": 17.357893,
+    "longitude": 78.446151,
+    "address": "Some Road, Hyderabad"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 16.534131,
+    "longitude": 80.687779,
+    "address": "Some Road, Vijayawada"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Bangalore",
+    "latitude": 12.96128,
+    "longitude": 77.609829,
+    "address": "Some Road, Bangalore"
+  },
+  {
+    "type": "fuel",
+    "name": "Reliance Fuel, Jaipur",
+    "latitude": 26.899777,
+    "longitude": 75.774464,
+    "address": "Some Road, Jaipur"
+  },
+  {
+    "type": "fuel",
+    "name": "Bharat Petroleum, Cuttack",
+    "latitude": 20.507419,
+    "longitude": 85.909916,
+    "address": "Some Road, Cuttack"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 20.482883,
+    "longitude": 85.917176,
+    "address": "Some Road, Cuttack"
+  },
+  {
+    "type": "garage",
+    "name": "Speedy Garage",
+    "latitude": 20.500239,
+    "longitude": 85.854158,
+    "address": "Some Road, Cuttack"
+  }
+]
